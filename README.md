@@ -48,4 +48,8 @@ CSV exports of all questionnaire responses:
 - [Tutor Responses (CSV)](./questionnaires/tutors_responses.csv)  
 - [Tutee Responses (CSV)](./questionnaires/tutees_responses.csv) 
 
-##
+---
+
+## Acknowledgements
+
+The participation of Öykü Kaplan in the ISD'25 conference was supported by the Department of Computer Architecture at the Gdańsk University of Technology.
