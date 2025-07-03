@@ -1,6 +1,10 @@
 # Earthquake Solidarity Project – Online Appendix
 
-This repository contains supplementary materials for the Earthquake Solidarity Project study. You can explore, download, and inspect each data source directly.
+This repository contains supplementary materials for the ISD'25 paper:
+**From Post-Disaster Support to Educational Equity: Conceptualizing a Volunteer-Driven Peer-to-Peer Learning Ecosystem at Scale**  
+*Öykü Kaplan, Adam Przybylek and Michael Neumann*
+
+You can browse, download, and inspect each data source directly.
 
 ---
 
