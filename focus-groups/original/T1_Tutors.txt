@@ -1,0 +1,150 @@
+ 
+
+Genel Tanıtım
+
+Merhaba, tekrar hoş geldiniz. Bu oturumda peer-to-peer yani akran destekli bir eğitim platformunu konuşacağız. Size bu modelle ilgili 8 soru soracağım.
+
+Geleneksel eğitim genelde tek yönlü bilgi aktarımına dayanıyor ve öğrenciyi pasif bırakıyor. Bu platformda amaç, bilgi paylaşımı ve iş birliğiyle daha etkileşimli bir öğrenme ortamı yaratmak.
+
+Modelde, üniversite öğrencileri 10-18 yaş arasındaki öğrencilere ders veriyor. Bu sayede hem öğretici hem de öğrenen bireyler gelişiyor. Eğitimler gönüllü veya düşük ücretli olabilir. Maddi imkânı olmayanlar da gönüllü öğreticilerden faydalanabilir.
+
+Vizyonumuz, üniversitelilerle gençler arasında bilgi paylaşımını artırmak ve ilham veren bir topluluk kurmak. Platformda bilgi paylaşımı, akıllı eşleştirme ve küresel bağlantılar gibi özellikler olacak.
+
+Şimdi, sırayla her soruya tek tek cevap vereceğiz. İster daha önce deneyiminiz olsun ister olmasın, düşündüklerinizi rahatça paylaşabilirsiniz.
+
+
+
+#Q1#
+Dijital bir platformda egitim destegi saglarken en buyuk zorluklar neler olabilir?
+
+Kübra:
+Benim aklima gelen ilk sey aslinda dijital platformlarda egitim destegi saglanirken en buyuk zorluk olarak egitimin interaktif olamamasi. Hani genelde tek tarafli yurutuluyor. Ogrenci katilimi cok dusuk oluyor. Interaktif olmadiginda egitimin kalitesi dusuyor ve biraz daha sanki ezberci bir modele gidiliyor. Yani dijital olsa da yine geleneksel kalip devam ediyor.
+
+Ali:
+Zorluk biraz da egitime es zamanli katilacak ogrencilerin seviyesiyle ilgili. Derse katilan ogrenci sayisi arttikca kontrol saglamak zorlasiyor. Ogrencilerin bir kismi dersi onemsemeyip farkli seylerle ugrasmaya yoneliyor. Kamera acma durumu da var. Kamerasini acmayan ogrencinin derse katilip katilmadigi belli olmuyor. Pandemi zamaninda cok yasandi bu. 13 yasindaki ogrencim ders sirasinda oyun oynadigini soylemisti. Buyuk bir problem bu.
+
+İlker:
+Bence de en buyuk zorlugu insanlari bireyserlige itmesi. Sınıf ici etkilesim azaldigi icin insanlar sosyal anksiyeteyi daha cok yasayabiliyor. Insan kendini bir birey olarak goremeyip sadece sesle konusuyor, tepki alamiyor. Bu da ice donuk bir duruma neden oluyor.
+
+Elif:
+Benim icin en buyuk sorun dikkat dagitici unsurlar. Evdeysen kapı calabilir, internet gidebilir, elektrik kesilebilir. Motivasyon eksikligi de cok buyuk bir problem. Teknolojik altyapi da cok onemli. Eger erisim yoksa, internet kesiliyorsa, slaytlar gecmiyorsa odak kayboluyor. Bu da ogrenciyi dersten kopartiyor.
+
+Cozum onerileri:
+
+Elif:
+Motivasyon eksikligi icin kendi alanimi yaratirim. Ornegin bir masa, bilgisayar sadece derse ayrilir. Evdekilere "rahatsiz etmeyin" derim. Yani biraz fiziksel alan olusturmak gerekiyor.
+
+İlker:
+Benim problemim ogrencilerin ders sirasinda farkli seylerle ugrasmasi. Bu, aile koruma sifresi gibi sistemlerle cozulebilir. Uygulama yuklenir, sadece belirli sitelere erisim saglanir. Ders zamani sadece o platforma girilebilir.
+
+Kübra:
+Benim sorunum interaktif egitimin olmamasi. Bu, daha kucuk ogrenci gruplariyla ders verilerek cozulebilir. Boylece ogrenci katilimi artar.
+
+
+
+#Q2#
+Akran destekli egitim modelinde ogrencilere basarili olmalarinda nasil yardimci olunabilir?
+
+Kübra:
+Ben egitmen olsaydim tum ogrencilerimle birebir iletisime gecerdim. Birer on gorusme yapardim. Onlari motive eden seyleri ogrenir, not alir, ortak noktalari bulup bu bilgilerle ders planlamasi yapardim. Cok ogrenci varsa yapay zekadan destek alinir.
+
+Ali:
+Bu egitimi verecek kisiler egitime yeni maruz kalmis olduklari icin daha iyi anlayabilir. Egitimi daha ilgi cekici hale getirmek icin grafik, anket gibi materyaller kullanilabilir.
+
+Kübra:
+Her ogrencinin ogrenme metodu farkli. Kimi grup icinde rahat ogreniyor, kimi birebirde. Hangi ogrencinin hangi yonteme ihtiyaci oldugunu ogrenmek icin birebir gorusmeler yapardim. Ayrica belli araliklarla geri bildirim toplardim.
+
+
+
+#Q3#
+Genc ogrencilere akademik destek saglarken karsilasabileceginiz en buyuk zorluklar nelerdir?
+
+Ali:
+Iletisim olabilir. Onlar ergen, biz genc yetiskin. Sabir, otorite kurma zor olabilir. Yasimizin yakinligi nedeniyle bizi ogretmen gibi gormeyebilirler.
+
+Kübra:
+Ben de ayni sekilde dusunuyorum. Otorite kurmak gerekiyor ama yasi kucuk oldugumuz icin bu zor olabilir. Arkadas gibi gorurlerse zorlanabiliriz.
+
+İlker:
+Benim icin de en buyuk zorluk iletisim. Yani ayni dili konusamamak. Yetişkin insanlar olarak ortak paydada bulusmak daha kolay. Ama 10-18 yas grubunun davranislari daha icgudusel, daha cesitli. Bu farkliliklarla bas etmek zor.
+
+Kubra (ek olarak):
+Jenerasyon farki da iletisimi etkiliyor. Onlarin teknolojiyle ve sosyal medyayla iliskisi bizimkinden cok farkli. Bu da otorite kurmayi zorlastiriyor.
+
+
+
+#Q4#
+Peer-to-peer platformuna katılacak olsanız sizi en çok ne motive ederdi?
+
+Elif: Benim için en büyük motivasyon sosyal etki olurdu. Genç nesle katkı sağlamak, hem akademik hem sosyal anlamda onlara bir şeyler aktarabilmek benim için anlamlı olurdu. Bu sadece akademik bilgiyle sınırlı kalmaz; aynı zamanda bir bakış açısı, bir vizyon da aktarırız.
+
+Ali: Benim için bu platforma katılmak hem akademik kariyerime katkı sağlar hem de deneyim kazanmamı sağlar. Ayrıca maddi kazancı da varsa bu da ek bir motivasyon olur.
+
+Kübra: Benim için de sosyal etki öncelikli motivasyon olurdu. Daha önce üniversitede çocuklara gönüllü ders verdiğim için bu tarz deneyimlerin ne kadar besleyici olduğunu biliyorum. Ayrıca bu yaş grubunun dünyası bizden farklı, onlardan öğreneceğimiz çok şey var. Bu da manevi tatmini artırır.
+
+İlker: Bu platformda her şeyden bir parça var: deneyim, sosyal fayda, CV katkısı ve maddi kazç. Yani fayda-fayda ilişkisi var. Hepsi benim için motive edici olurdu.
+
+
+
+
+#Q5#
+Gönüllü eğitmenlik yapmaya istekli olur muydunuz?
+İlker: Şu anki yoğun hayatımda süreklilik sağlamak zor olabilir. Yârim kalma ihtimali beni düşürür. Bu nedenle gönüllü yapmam ama zamanım olursa düşünürdüm.
+
+Ali: Ben kısmen evet diyorum. Sürekli değil ama belirli dönemlerde, örneğin toplumsal olaylar olduğunda (deprem vs.) gönüllü eğitim verebilirim. Haftada bir saat gibi zaman ayırabilirim.
+
+Kübra: Ben de aynı şekilde her hafta yapamam ama haftada bir saatimi ayırarak gönüllü eğitim verebilirim. Tıpkı spora gitmek gibi, bu da benim için anlamlı bir alana katkı olur.
+
+Elif: Ben kesinlikle gönüllü olurum. Zaten daha önce AIESEC gibi yapılarda eğitmenlik yaptım. Manevi tatmini büyük. Gelir ikinci planda.
+
+
+
+#Q6#
+Katılmanızı teşvik edecek en önemli etken ne olurdu?
+
+Elif: Referans mektubu benim için en somut motivasyon olurdu. Akademik kariyer düşünen birisi olarak faydası büyük olur.
+
+Ali: Benim için de aynı şekilde referans mektubu ve sertifika etkili olurdu. Akademik olarak kullanabilirim.
+
+Kübra: Benim için topluluk desteği ve beceri geliştirme daha önemli. Sertifika ve referans evet faydalı ama asıl motivasyonum kendimi bu toplulukta geliştirmek olurdu.
+
+İlker: Hepsi etkili ama en çok maddi kazancı ve deneyim kazanma etkili olurdu. Platformda olmamı sağlayacak şey somut katkılar.
+
+
+
+#Q7#
+Gönüllü eğitmen olarak haftada ne kadar zaman ayırabilirdiniz?
+
+Elif: Haftada 1 saat ayırabilirim. Daha fazlası süreklilik konusunda beni zorlar.
+
+Ali: Haftada 1-2 saat uygun. Yoğun olmayan dönemlerde bu süre uzayabilir ama genel olarak süreklilikte zorlanabilirim.
+
+Kübra: Ben haftada 1 saat ayırabilirim. Spora zaman ayırır gibi böyle anlamlı bir şeye de zaman ayırabilirim.
+
+İlker: Haftada 1 saat ayırabilirim. Toplumsal olaylarda daha fazlası da olabilir.
+
+
+
+#Q8#
+Performansınız hakkında geri bildirimi nasıl almak isterdiniz?
+
+Elif: Anonim geri bildirim daha etkili olur. Öğrenciler bazen yüz yüZe bir şeyi söyleyemez ama yazılı ve anonim olursa daha açık olabilirler.
+
+İlker: Benim için bire bir öğrenci geri bildirimi öncelikli olurdu. Kim ne düşünmüş bilmek isterim. Analitik raporlar da destekleyici olur.
+
+Kübra: Ben ikisini de destekliyorum. Anonimlik dürüstlüğü artırır, bire bir iletişim de öğrenciye göre gelişim sağlamamı kolaylaştırır.
+
+Ali: AIESEC deneyimimden yola çıkarsam, geri bildirim kutuları gibi yaratıcı sistemler etkili olur. Ama bu yaş grubunun yorumları kötüye gitmesin diye belli etik sınırlar da konmalı.
+
+
+
+Bonus Soru: Genel olarak bu platform hakkında artı ve eksiler ne olurdu?
+
+Elif: Teknik altyapı eksikliği en büyük dezavantaj olabilir. Ama maddi durumu kısıtlı öğrencilere destek olması çok büyük bir artı.
+
+İlker: Peer-to-peer modelinin kendisi büyük bir avantaj. Öğrenci ve eğitmen arasındaki yaş yakınlığı anlayışı artırıyor. Ama gönüllü öğretmenlerin zaman bulamaması dezavantaj olabilir.
+
+Ali: Öğrencilerin kendilerine yakın yaşta öğretmenlerden eğitim alması etkili. Ancak disiplin sağlamak zor olabilir. Eğitmenin yetkinliği denetlenmeli. Öğretmenlerin seçimi önceden test ya da görüşmeyle yapılmalı.
+
+Kübra: Öğretmenlerin eğitim alması gerekebilir. Kısa bir oryantasyon eğitimi ya da psikolog desteği faydalı olur. Çocuk psikolojisi ve iletişim konusunda eğitmenlerin bilgilenmesi iki taraf için de iyi olur.
+

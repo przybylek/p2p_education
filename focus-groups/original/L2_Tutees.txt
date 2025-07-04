@@ -1,0 +1,300 @@
+ 
+(General Description)
+Peer-to-peer, yani akran eğitimi, yaşıta yakın kişilerden doğrudan destek almak demek. Merkezi bir sisteme gerek olmadan, bireyler arasında bilgi paylaşımı sağlanır.
+
+Şu anda böyle bir platform yok. Kurulursa nasıl olur, bunu birlikte keşfedeceğiz. Size 8 soru sorulacak ve cevaplar anonim olacak.
+
+Geleneksel eğitimde öğrenciler pasif kalıyor. Destek sınırlı, herkes aynı kalitede eğitime ulaşamıyor. Öğrenilen bilgiler de pratiğe dökülmediği için unutuluyor.
+
+Bu modelde üniversite öğrencileri, 10-18 yaş arası öğrencilere ders verecek. Amaç, daha erişilebilir, etkileşimli ve motive edici bir öğrenme ortamı sunmak.
+
+Deprem sonrası projelerde olduğu gibi, üniversiteliler sadece bilgi değil, moral ve ilham da verebilir. Siz de büyüdüğünüzde başkalarına destek olabilirsiniz.
+
+Eğitimler düşük ücretli olacak. Gönüllü eğitmenler sayesinde, ihtiyacı olan öğrenciler ücretsiz de faydalanabilecek.
+
+Hedefimiz, bilgi paylaşımını artırmak, erişimi eşitlemek ve ilham veren bir topluluk oluşturmak.
+
+
+
+#Q1#
+Şimdi ilk soruyla başlıyoruz:
+Akran destekli eğitim modeli sizin için geleneksel öğretim yöntemlerinden nasıl farklı? Hangi alanlarda daha etkili olduğunu düşünüyorsunuz?
+
+Böyle bir sistem olduğunu varsayalım. Özellikle deprem döneminde yaşıtlarınızdan eğitim aldığınız deneyimi düşünerek cevaplayabilirsiniz. Konuşmak isteyen varsa başlayabilir, yoksa sırayla soracağım.
+
+Umut:
+Bence daha iyi çünkü yaşımıza yakın öğretmenler bizi daha iyi anlayabiliyor. Daha özel ve etkileşimli oluyor.
+
+Elif Hicran:
+Geleneksel öğretimde öğretmenler atanmayı beklerken zaman geçiyor ve bilgileri körelebiliyor. Bu yüzden bazen fazla karmaşık anlatıyorlar. Akran destekli model daha anlaşılır.
+
+Elif Dağ:
+Az kişi olmak daha iyi. Yaşımızın yakın olması sayesinde kendimizi daha rahat hissediyoruz. Motivasyon veriyorlar. Okulda bazı öğretmenler anlatamıyor ama burada daha iyi anlıyorum, daha çok çalışasım geliyor.
+
+Melek:
+Yaşımıza yakın kişilerle konuştuğumuzda daha iyi anlaşıyoruz ve kendimizi daha rahat ifade ediyoruz. Odaklanma da daha iyi oluyor, çünkü ortam sessiz ve dikkat dağıtan şeyler yok.
+
+Azra:
+Kişi sayısı az olduğu için daha özgürce soru sorabiliyorum. Üniversitelilerle iletişim kurmak beni etkiledi, okulda kendimi daha rahat ifade etmeye başladım.
+
+
+
+#Q2#
+Dijital bir platform üzerinden akran desteği alırken karşılaştığınız en büyük zorluklar neler?
+(İletişim engelleri, motivasyon eksikliği, teknik sorunlar gibi... ama bunların dışında başka şeyler de olabilir.)
+
+Hicran:
+Ben şimdiye kadar bir zorluk yaşamadım, bana göre pek zor bir yanı yoktu.
+
+Melek:
+Ben de çok zorlandığım bir şey yaşamadım. Sadece bazen internet kesintisi ya da iletişim aksaklıkları olabiliyor.
+
+Elif Dağ:
+Benim için de büyük bir zorluk yok ama bazen ders saatleriyle kendi planım çakışabiliyor. O zaman derse giremeyebiliyorum.
+
+Azra:
+Teknik sorunlar olabiliyor. Özellikle internet kesintileri. Onun dışında ciddi bir iletişim problemi yaşamadım.
+
+Umut:
+Bazen evde misafir oluyor, sessiz ortam bulmak zorlaşıyor. O zaman dikkat dağılabiliyor, odaklanmak zor oluyor.
+
+
+
+#Q3#
+Üniversite öğrencilerinden eğitim alırken nasıl bir iletişim kurmalarını tercih edersiniz?
+(Daha resmi mi, rehberlik odaklı mı, arkadaşça mı?)
+
+Melek:
+Rehberlik odaklı olabilir. Nasıl çalışacağımı anlatmaları benim için faydalı olur. Özellikle ders anlamında yönlendirme isterim.
+
+Umut:
+Arkadaşça yaklaşmaları iyi olur. Zaten sınav senesi olduğu için yeterince stresliyiz. Ama sınav olmasa da rehberlik odaklı yaklaşım da olabilir. Yani ikisi bir arada.
+
+Elif Dağ:
+Hem rehberlik odaklı hem arkadaşça olması daha iyi olur. Hem yönlendirsin hem yakın dursun.
+
+Azra:
+Rehberlik odaklı bir iletişim tercih ederim. Yönlendirilmek istiyorum.
+
+Hicran:
+Bence arkadaşça yaklaşım daha iyi. Akran destekli eğitimi gelenekselden ayıran en önemli fark bu olabilir.
+
+
+
+#Q4#
+Bir akran destekli dijital eğitim platformunun en etkili olması için hangi özelliklere sahip olması gerektiğini düşünüyorsunuz?
+
+Hicran:
+İyi bir lisede okuyan bir öğrencinin gelip bize motivasyon veya yaptığı şeyleri söylemesi bence etkili olur.
+
+Umut:
+Ayda iki defa falan rehberlik, yani mesela bizim soru çözümümüzü takip eden hocalar falan olsa daha iyi olur.
+
+Elif Dağ:
+Şey alsak böyle, herkes kitabı alsa, böyle deneme tarzı çözsek, süre tutup. Herkesle ortak bir kaynak da olması istiyorum.
+
+Azra:
+Bence sürelerinin daha uzun olması daha iyi olurdu.
+— Ne olması?
+Sürelerinin uzun olması daha iyi olurdu.
+— Ders sürelerinin mi?
+Evet.
+— Kaç dakika olmasını istersin?
+50-55 dakika falan olması gerekiyor bence.
+— 50-55 dakika boyunca odağını koruyabiliyor musun?
+Ben odağım hakkında dikkatli olabiliyorum.
+
+Melek:
+Güçlendirme sınavları olabilir, birebir görüşmeler, ilham odaklı görüşmeler olabilir.
+
+
+
+#Q5#
+Böyle bir platformda ilerlemenizi nasıl takip etmek istersiniz?
+
+Azra:
+Bence ilerleme takibi olur.
+— Takibin nasıl olmasını istersin?
+Anket doldurma.
+
+Umut:
+Bence ilk başladığımız zamanlarla sınava en yakın olan denemelerimiz karşılaştırılabilir.
+
+Elif Dağ:
+Bence ilerleme takibi.
+— Nasıl yapılsın istersin?
+Görüşmeler yolu olabilir. Daha iyi.
+
+Hicran:
+Bence mentor geri bildirimi daha etkili olur.
+— Öğretmenlerden geri bildirim almak mı istersin?
+Evet. Bir insanın bizimle yaşı daha yakın olan birinin bizimle ilgilenmesi bence daha iyi.
+
+Melek:
+Mentor geri bildirimleri olabilir bence. Otomatik analizler de var galiba. Mentor geri bildirimleri ve otomatik analizler bence.
+
+
+
+
+#Q6#
+Dijital akran destekli eğitim, öğrenme hızınızı, kalitenizi ve özgüveninizi nasıl etkiliyor?
+
+Melek:
+Özgüvenimi arttırıyor. Dijital eğitim öğrenme hızımı ve kalitemi olumlu etkiliyor bence.
+Mesela daha önceden öğrendiğim bir şeyi tekrar burada dinlemek veya öğrenmek daha iyi anlamama yardımcı oluyor.
+
+Hicran:
+Sınıf ortamında anlamadığım bir konu olursa, tüm sınıfa etkileyeceği için açıkçası konuşmuyorum.
+Ve istesem anlatıyor biliyorum ama ben gidip hocaların yanına “bana bu konuyu anlatır mısın?” demiyorum, burada diyebiliyorum.
+Özgüvenimi de arttırıyor.
+Öğrenme hızımı arttırıyor çünkü anlamadığım konuyu kendim yapsam üç haftada bitireceğim, burada bir haftada bitirebiliyorum.
+Kalitesini de şu şekilde arttırıyor; daha profesyonel birinden dinlediğim için.
+
+Elif Dağ:
+Özgüvenimi arttırıyor. Okuldayken tahtaya kalkamıyorum.
+Ama burada bir soru sorulduğunda daha rahat kalkıyorum.
+Öğrenme hızı ve kalitesini de… Daha aklımda kalıcı oluyor.
+Bir haftadır, hatta beş haftadır çalıştığım konuyu okulda anlayamıyorum ama burada daha hızlı anlıyorum.
+
+Umut:
+Özgüvenim artıyor ama bir sorunum var.
+Okulda daha önceden işlediğimiz konuları burada tekrar işliyoruz.
+Okulda eski konulara dönülmediği için, bence ilerideki konulardan devam etmeliyiz.
+İlerideki konulardan devam edersek okulda sorularımızı daha iyi çözebiliriz.
+Okulda tahtaya kalkamıyorum. Ama burada hocalar soru sorun diyor.
+Çözmesem bile deftere çözebiliyorum. Yanlış olursa hoca anlatıyor, bence özgüvenim artıyor.
+
+Azra:
+Özgüvenimi artırıyor ve öğrenme hızını da, kalitemi de artırıyor.
+Özgüvenimi artırma sebebi burada daha az kişi olduğumuz için rahat bir şekilde soruları cevaplayabiliyoruz.
+Fazla kişi olunca tahtaya çıkamıyoruz, çıkmakta zorlanıyoruz.
+
+
+
+#Q7#
+Bu sistemdeki en büyük avantaj ve dezavantaj sizce nedir?
+
+Melek:
+En büyük avantajı, okulda anlamadığımız bir konuyu tekrar dinleme şansımızın olması.
+Veya burada öğrenip orada tekrar edebiliyor olmamız.
+Dezavantajı bence internet kesintileri, iletişim sorunları falan. Teknik sorunlar falan.
+
+Elif Dağ:
+En büyük avantajı, ücretsiz olması. Az kişi olması.
+Yaşlarımızın anlatması.
+Dezavantajı ise sürelerin biraz az olması. Ve iletişim sorunu, internet sıkıntısı gibi bir şeyler.
+
+Azra:
+Avantajı, anlamadığımız konuları tekrar edebiliyoruz.
+Dezavantajı ise internet kesintisi olduğu zamanlar derse giremiyor oluyoruz.
+
+Hicran:
+En büyük avantajı, anlamadığımız konuları tekrar etmek olabilir.
+Dezavantajı da ekran karşısında geçirdiğimiz sürenin artması.
+Göz sağlığı ya da bel ağrısı gibi şeylere neden olabilir diye düşünüyorum.
+
+Umut:
+Avantajları arkadaşlarımın da dediği gibi, geçmiş konuları tekrar edebilmek ya da ileride gidebilmek.
+Okulda daha iyi anlayabilmek.
+Dezavantajları ise arkadaşlarımın dediği gibi, uzun süre bilgisayar başında olmak, postür bozukluğu falan olabiliyor.
+Ders saatleri biraz az.
+Eğer ders saatlerini kendimiz düzenlesek, daha iyi olabilir.
+
+
+
+#Q8#
+Eğer bu model gelecekte yaygınlaşırsa eğitim sistemini nasıl dönüştürür?
+
+Melek:
+Yaygınlaşırsa, okullarda sürekli olmasa da arada böyle şeyler uygulanabilir.
+Mesela öğretmenlerimiz daha yaşlı öğretmenler yerine daha genç olanlar alınabilir.
+Veya onlarla bir konuşma yaptırabilirler bize.
+
+Umut:
+Türkiye’de neredeyse her ilde olabilir.
+Yaşça büyük hocalarımız bizi daha az anlayabiliyor ama yaşça yakın olan hocalar bizi daha iyi anlayabiliyor.
+Bu genç hocalar yaşça büyük hocalarla konuşurlarsa, onlar da bizi daha iyi anlayabilir.
+
+Azra:
+Arkadaşlarıma katılıyorum.
+Öğretmenlerin bu konuda bilinçlendirilmesi gerekiyor.
+
+Elif Dağ:
+Ben de arkadaşlarıma katılıyorum.
+Yaygınlaştırılırsa çoğu kişi dersi daha iyi anlar.
+Daha çalışkan ve başarılı olur.
+Üniversite öğrencilerinin olması daha güzel olur.
+Çünkü bizden büyük olan hocalar bizi çok anlamıyorlar.
+Üniversite öğrencileri daha yakınlar, motivasyon falan veriyorlar.
+
+Hicran:
+Yaşça büyük hocalar bizi anlamakta zorlanıyor diyebilirim.
+Ya da biz onları tam anlayamıyoruz.
+Üniversitede öğrenim gören ve bize öğretmenlik yapacak hocalar ne anlatmak istediğimizi anlıyor.
+Ben şimdi matematik hocama gitsem “x eşittir 2” desem, “x kaç?” desem, “y eşittir 3” diyor.
+Çok saçma sapan diyaloglar geliyor.
+O yüzden ben bu eğitim platformunun daha iyiye dönüştüreceğini düşünüyorum.
+
+
+#Bonus#
+Bu platform için genel düşüncen nedir? Grup mu, birebir mi tercih edersiniz? Genel olarak böyle bir modelin yaygınlaşması hakkında ne düşünüyorsunuz?
+
+Umut:
+Bence yayılmalı. Çünkü mesela bizim son senemiz, bize daha iyi olabilir.
+Lisedeyken de kullanabiliriz bunu. 10-18 yaş arasındaki tüm öğrenciler için olacak.
+Uluslararası olursa daha iyi olur. Çünkü üniversitede de bir arası oluyor. Liseler falan da öyle yapabilir.
+Bence arkadaşlarla sohbet edip konuşmak da önemli. Yani sadece ders değil, arkadaşlarla etkileşim de olmalı.
+
+Elif Dağ:
+Uluslararası olması güzel olabilir ama bence grup dersleri 5-6 kişilik olursa daha güzel olur.
+
+Azra:
+Hem birebir hem de grup dersleri olabilir.
+Bu platformun yayılması da, uluslararası olması da daha iyi olabilir.
+
+Hicran:
+Grup halinde yapılan toplantılar daha iyi olur.
+Bir soru veya konu üzerinde tartışmak daha etkili oluyor.
+Eğitim sistemini olumlu etkileyeceğini düşünüyorum.
+Bize olmasa da bizden sonraki nesilleri iyi etkileyeceğini düşünüyorum.
+
+Melek:
+Ben hem birebir derslerin hem de grup derslerinin iyi olduğunu düşünüyorum.
+Genel düşüncem, yaygınlaşması ve uluslararası olması iyi olabilir.
+Ülkemize bir an önce uygulanmaya başlanması gerekiyor bence.
+Böyle bir konu çok yararlı olur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
