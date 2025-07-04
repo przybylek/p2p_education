@@ -54,5 +54,6 @@ CSV exports of all questionnaire responses:
 
 The participation of Öykü Kaplan in the ISD'25 conference was supported by the Department of Computer Architecture at the Gdańsk University of Technology.
 
+The insights shared by focus group participants provided critical input for the development and refinement of this study.
 - [Focus Group Participants](focus_group_participants.md)
 
