@@ -1,0 +1,402 @@
+(General Description)
+
+Bu eğitim modeli, üniversite öğrencilerinin 10-18 yaş aralığındaki öğrencilere eğitim vermesini amaçlamaktadır. Fokus grup çalışmasıyla, P2P eğitim modelini nasıl geliştirebileceğimize dair içgörüler toplamak istiyoruz. Platform şu an yok, ancak olursa nasıl olması gerektiğini tartışacağız.
+
+P2P modelinin amacı, geleneksel eğitimdeki pasif öğrenmeyi, bireyselleşmiş destek eksikliğini ve eşitsiz erişimi gidermek. Üniversite öğrencileri gençlere hem eğitim verecek hem de deneyimlerini paylaşacak. Bu sayede öğrenciler sadece öğrenen değil, aynı zamanda öğreten bireyler olacak.
+
+Etkileşimli ortam, özgüven ve sosyal becerileri geliştirme bu modelin önemli unsurlarıdır. Eğitim ücretli ya da gönüllü olabilir, ancak maddi durumu yetersiz öğrenciler ücretsiz eğitim alabilecek.
+
+
+Bu modelin vizyonu, bilgi paylaşımını güçlendirerek eğitimi daha erişilebilir ve ilham verici hale getirmek. Eğer platform büyürse, uluslararası bir topluluk oluşması da hedeflenmektedir.
+
+Şimdi sorulara geçiyorum. Eğer aklınıza takılan bir şey varsa sormaktan çekinmeyin.
+
+
+
+ #Q1#
+Akran destekli eğitim modelleri sizin için geleneksel öğretim yöntemlerinden nasıl farklı? Hangi alanlarda daha etkili olduğunu düşünüyorsunuz?
+
+Ama siz zaten bunu deneyimlediniz. Deprem dayanışma projesinde öğretmenlik yapan bazı öğretmenler aslında öğretmen değil.
+Yani statü olarak üniversite öğrencileri ya da yeni mezun olmuşlar. O yüzden onlardan aldığınız eğitimi düşünebilirsiniz.
+Akran destekli eğitim modeli sizin için şu anki geleneksel eğitim modelinden nasıl farklı?
+
+Rüveyda:
+Ben öncelikle bu eğitimlere katıldığımda benim için en önemli şeylerden biri özgüvenimin artması oldu.
+Daha iyi konuşmaya, kendimi daha iyi ifade etmeye başladım ve sosyal becerilerim güçlendi.
+İkinci olarak verim gerçekten çok fazla artıyor.
+Kişi sayısının az olması ve daha rahat soru sorabilme imkanı verimi çok fazla arttırıyor.
+Yaşlarımızın yakın olması, düşünme şeklimizin benzemesi de öğrenmeyi kolaylaştırıyor.
+
+Başak:
+Bence akran destekli eğitimler genel olarak çok iyi.
+Hocalarla aradaki yaş farkı bir öğretmenden daha çok arkadaş gibi oluyor.
+İstediğimiz düşünceyi daha açık bir şekilde belirtebiliyoruz.
+Sosyalleşme açısından ve konuşma biçimi açısından çok iyi.
+
+Ender:
+Akran eğitimi, geleneksel öğretim yöntemlerinden çok büyük bir fark yaratıyor ve bu fark öğrenciler için olumlu bir şey.
+Öğretmenlerle yaş farkı az olduğu için daha rahat ifade edebiliyoruz ve daha çok kendimizi bulabiliyoruz.
+Küçük gruplar halinde çalışınca dersler daha interaktif ve eğlenceli oluyor.
+Bazen dersler konudan sapıyor ama bu da dersi daha akıcı hale getiriyor.
+
+Yağmur:
+Akran eğitimi güzel çünkü aradaki yaş farkı az.
+Okuldaki öğretimden farkı, burada daha az kişi olması.
+Bu yüzden daha fazla katılabiliyoruz, daha fazla soru sorabiliyoruz ve daha etkileşimli oluyor.
+Derslere daha iyi katılıyorum ve daha iyi anlıyorum.
+Anlamadığım yerleri sorduğumda hoca anında cevap veriyor.
+
+Azra:
+Bence bu derslerde kişi sayısı az olduğu için daha özgüvenli bir şekilde cevap verebiliyorum.
+Ama okulda fazla kişi olduğu için rahat edemiyoruz ve etkileşim azalıyor.
+Bu süreçte özgüvenim gelişti.
+
+
+Rüveyda:
+Benim okulda bir kimya öğretmenim var, çok başarılı bir insan.
+Ama yaşı gereği ya da başka sebeplerden ötürü bilgisini bize aktaramıyor.
+Öğrenci olarak bu bilgiye ihtiyacımız var, ancak bazen öğretmenler öğrencilerle doğru iletişim kuramıyor.
+Akran destekli eğitimde ise bu sorun azalıyor.
+Arkadaşlarımıza sorarak anlamadığımız yerleri daha iyi kavrayabiliyoruz.
+Bu şekilde eğitimin daha verimli olduğunu düşünüyorum.
+
+
+
+ #Q2#
+Dijital bir platform üzerinden akran desteği alırken karşılaştığınız en büyük zorluklar nelerdi?
+İletişim engelleri, motivasyon eksikliği veya teknik sorunlar yaşadınız mı?
+
+Moderatör(Öykü):
+Zor olan neydi sizin için? İletişim engelleri olabilir, motivasyon eksikliği olabilir, teknik sorunlar olabilir.
+Sonuçta online eğitim alıyorsunuz.
+
+Azra:
+Dijital platform üzerinden ders almak için internete ihtiyacımız var.
+Elektrik kesildiğinde veya internet bağlantısı olmadığında derse katılamıyorum.
+Bazen görüntü açılmadığında karşımdaki kişiyi tam göremiyorum, bu da iletişimde kopukluk yaratıyor.
+Sesle ilgili sıkıntılar yaşandığında da anlaşmak zorlaşıyor.
+
+Ender:
+Evet, teknik sorunlar kesinlikle büyük bir problem.
+Özellikle farklı ortamlardan bağlanırken dikkatiniz kolayca dağılabiliyor.
+Aynı ortamda olsak, herkes birbirini gözlemleyebilir ama online derslerde bu eksiklik yaşanıyor.
+
+Rüveyda:
+Bence insanları yalnızca ekrandan görmek yeterli değil.
+Gerçekten anlamak için yüz yüze olmak önemli.
+Online dersler duygusal bağı azaltıyor, motivasyonu düşürebiliyor.
+Ekran karşısında eğitim almak bazen soğuk ve kopuk hissettirebiliyor.
+
+Başak:
+Bence en büyük sorun zaman uyumsuzluğu olabilir.
+Ders için belirlenen saat bana uygun olsa bile, başka biri için uygun olmayabilir.
+Bu, grup derslerinde büyük bir sorun haline gelebiliyor.
+Ancak bu, geleneksel eğitimde de var olan bir problem.
+Online platformlarda daha farklı saat dilimlerinden insanlar olduğu için bu sorun daha fazla yaşanıyor.
+
+Rüveyda & Başak arasındaki tartışma:
+
+Rüveyda: Ortak bir zaman belirlemek önemli çünkü bir grup halinde eğitim alıyoruz.
+Başak: Ama okulda belirlenen saatlerde mecburen derslere giriyoruz. Evdeyken ise ders saatleri daha esnek olabiliyor.
+Moderatör(Öykü): İkinizin de farklı açılardan haklı olduğu noktalar var.
+Başak, okulda olduğunda dışarıdaki olaylardan daha az etkileniyor, ama evde online ders alırken çevresel faktörler onu daha fazla etkiliyor.
+Rüveyda ise grup derslerinde ortak zaman belirlemenin zor olduğunu söylüyor.
+
+Yağmur:
+Hocam, yüz yüze olmadığı için siz benim duygu veya düşüncelerimi göremiyorsunuz.
+Ben "anladım" diyorum ama belki de anlamıyorumdur.
+Ayrıca, bana söz hakkı verildiğinde sesimi açana kadar zaman kaybı yaşanıyor.
+Bu da motivasyon eksikliğine sebep oluyor.
+
+Moderatör(Öykü):
+Teşekkür ederim. O zaman üçüncü soruya geçiyorum.
+
+
+
+ #Q3#
+Üniversite öğrencilerinden eğitim desteği alırken nasıl bir etkileşim kurmayı tercih ederdiniz?
+Daha resmi mi, rehberlik odaklı mı, ilham verici mi yoksa arkadaşça bir yaklaşımı mı tercih edersiniz?
+
+Başak:
+Bence rehberlik odaklı ve arkadaşça bir yaklaşım daha güzel olur.
+Çünkü üniversite öğrencileri, üniversiteyi yeni kazanmış kişiler.
+Nasıl çalışmamız gerektiğini ya da nasıl çalışmamamız gerektiğini bize daha iyi anlatabilirler.
+
+Ender:
+Ben de aynı şekilde düşünüyorum ve bunu biraz daha açabilirim.
+Öğretmen-öğrenci arasındaki hiyerarşiyi çok sert tutmamak daha iyi olabilir.
+Tabii ki öğretmene saygı duyulmalı, ancak okuldaki öğretmen kadar resmi olmamalı.
+
+Moderatör(Öykü):
+Evet, saygı çerçevesi her zaman önemli. Ancak burada, hiyerarşinin fazla olmamasını istiyorsun.
+Bu dengeyi sağlamak önemli.
+
+Yağmur:
+Bence arkadaşça yaklaşım daha iyi olabilir.
+
+Moderatör(Öykü):
+Yani öğretmenlerin daha samimi ve arkadaşça olmasını mı tercih edersin?
+
+Yağmur:
+Evet.
+
+Azra:
+Bence de arkadaşça yaklaşım daha iyi olur.
+
+Moderatör(Öykü):
+Bunu tercih etmendeki sebep nedir?
+
+Azra:
+Özel bir sebebim yok hocam, sadece daha rahat hissettiriyor.
+
+Katılımcılardan biri:
+Rehberlik odaklı yaklaşımı biraz daha açabilir misiniz?
+
+Moderatör(Öykü):
+Bunu biraz mentor gibi düşünebiliriz.
+Yani eğitmenler sadece öğretmekle kalmayıp, kariyer ve okul hayatınız üzerine yönlendirebilirler.
+Okuldaki rehber öğretmenleri gibi, size yol gösterebilirler.
+
+Katılımcılardan biri:
+Ne çok resmi ne de çok arkadaşça bir yaklaşım olmalı.
+Benim için önemli olan dengeyi kurmak, o yüzden rehberlik odaklı yaklaşımı tercih ederim.
+
+Moderatör(Öykü):
+Yani sen, her yaklaşımdan biraz biraz dengeli bir iletişim tarzı istiyorsun.
+
+Katılımcılardan biri:
+Evet, tam olarak öyle.
+
+Moderatör(Öykü):
+Tamamdır, teşekkür ederim.
+
+
+
+
+ #Q4#
+Bir akran destekli dijital eğitim platformunun en etkili olması için hangi özelliklere sahip olması gerektiğini düşünüyorsunuz?
+Birebir dersler mi, grup dersleri mi daha etkili olur? Motivasyon konuşmaları, mentorluk veya başka hangi özellikler platformu daha faydalı hale getirir?
+
+Başak:
+Bence üniversiteyi tamamlamış bir öğrencinin bizimle deneyimlerini paylaşması çok faydalı olabilir.
+Bize üniversitenin olumlu ve olumsuz yönlerini, yaptığı tercihleri ve bunların sonuçlarını anlatabilir.
+Birebir ve grup eğitimleri de olmalı.
+Grup eğitiminde öğrenciler arasında bir rekabet ve motivasyon oluyor, bu güzel bir şey.
+Ama grup eğitiminde her öğrenciye sınırlı bir süre düşüyor (örneğin 8 dakikada bir soruyu anlamak zorunda).
+Birebir eğitimde ise daha fazla zaman ve esneklik olduğu için öğrenciler istedikleri kadar soru sorabiliyor.
+
+Ender:
+Bence grup derslerinin saatleri ortak belirlenmeli, çünkü iptal edildiğinde motivasyon düşebiliyor.
+Ayrıca, öğrencilerin öğretmenler olmadan birbirleriyle konuşabileceği bir alan olması da önemli.
+Böylece öğrenciler birbirleriyle fikir alışverişinde bulunabilir.
+
+Yağmur:
+Bence hocaların arada bir motivasyon konuşması yapması iyi olur.
+Öğrenciler, gelecek planlarını paylaşabilir ve öğretmenler onları yönlendirebilir.
+Bu sayede kendi alanlarını keşfetme fırsatı bulabilirler.
+
+Rüveyda:
+Bence üniversite öğrencilerinin mentorluk yapması çok faydalı olur.
+Daha önce bunun bir versiyonunu deneyimledim ve çok verimli olduğunu gördüm.
+Öğrenciler kendilerini yargılanmadan özgürce ifade edebilmeliler, bu yüzden platformda buna yönelik bir alan olmalı.
+Ayrıca, birebir derslerin daha verimli olacağını düşünüyorum.
+
+Moderatör(Öykü):
+Bazı öğrenciler birebir derslerde aktif olamayabiliyor, ancak grup derslerinde daha rahat hissedebiliyorlar.
+Tam tersi durumlar da olabiliyor, bu yüzden her iki sistemin de olması önemli.
+Fikirleriniz için teşekkür ederim!
+
+
+
+
+ #Q5#
+Böyle bir platformda ilerlemenizi nasıl takip etmek isterdiniz?
+İlerleme takibi için hangi yöntemler etkili olur?
+Mentor geri bildirimi mi?
+Otomatik analizler mi?
+Test bazlı yapay zeka destekli sistemler mi?
+Başka bir yöntem mi?
+Ender:
+Bence öğrencilerin test sonuçlarını girebileceği yapay zeka destekli bir sistem olmalı.
+Test sonuçları analiz edilerek öğrencinin eksik olduğu konular belirlenmeli ve ona uygun çalışma programı sunulmalı.
+
+Moderatör(Öykü):
+Yani test yapılıyor, yapay zeka sonuçları inceliyor ve eksik olduğun konuları belirliyor.
+
+Ender:
+Evet, tam olarak böyle.
+
+Rüveyda:
+Bence de testlerin olması mantıklı ama tek bir test yeterli olmaz.
+Birden fazla test yapılmalı ve ilerlemeyi görmek için düzenli tekrarlar olmalı.
+Öğrencinin yanlışlarını takip edip, eksiklerini kapatacak bir sistem geliştirilmeli.
+
+Yağmur:
+Okulda ya da dershanede yapılan sınavlar gibi hocanın online sınavları değerlendirmesi iyi olabilir.
+Yanlış yapılan konular belirlenip, öğrenciler bu konular üzerinde daha fazla destek alabilir.
+
+Başak:
+Ben de Ender ve Rüveyda’nın dediğine katılıyorum.
+Deneme sınavları yapılıp, yanlış yapılan sorular analiz edilerek konuların tekrar edilebileceği bir soru havuzu oluşturulabilir.
+
+Katılımcılardan biri:
+Bence ilerleme takibi çok önemli.
+İlerlemenin sıralamaya göre takip edilmesi motive edici olabilir.
+Örneğin, platformda 100 kişilik bir grup varsa, bu 100 kişinin sıralaması gösterilebilir.
+50. sıradayken 40. sıraya çıkmak veya ilk 10’a girmek bir hedef olabilir.
+Bu sistem yapay zeka üzerinden takip edilirse çok daha net olur.
+
+Moderatör(Öykü):
+Yani platform, öğrencileri belli sınavlarla değerlendirerek gelişimlerini karşılaştırmalı olarak gösterebilir.
+
+Katılımcılardan biri:
+Evet, ama isimler anonim olursa daha adil ve motive edici olur.
+
+Moderatör(Öykü):
+Evet, amaç zaten öğrencilerin birbirini geliştirmesi.
+Bu tarz bir sistem rekabet havası yaratabilir ve motivasyonu artırabilir.
+Şimdi altıncı soruya geçiyorum.
+
+
+
+ #Q6#
+Dijital akran destekli eğitim öğrenme hızınızı ve kalitenizi nasıl etkiliyor?
+Bunu zaten özgüvenimi arttırıyor diyenleriniz oldu ama tekrar konuşalım.
+Yani öğrenmedeki kalitenizi nasıl etkiliyor?
+ 
+Ender:
+Öğrenme hızım konusunda çok büyük bir etkisi yok.
+Ancak, öğrenme kalitem ve öğrenme kolaylığım üzerinde çok olumlu bir etkisi var.
+Özgüvenimde herhangi bir değişiklik olmadı çünkü zaten özgüven eksikliği yaşamadığımı düşünüyorum.
+
+Moderatör(Öykü):
+Peki, ne olsaydı özgüvenin artardı?
+
+Ender:
+Bunun kişisel bir faktör olduğunu düşünüyorum, özgüvenle ilgili bir problemim yok.
+
+Moderatör(Öykü):
+Gayet güzel bir cevap.
+
+Rüveyda:
+Bence öğrenme hızı, öğrenme kalitesi ve özgüven birbiriyle bağlantılı.
+Birinin artması, diğerlerini de olumlu etkiliyor.
+Öğrenme kalitemiz arttığında, öğrenme hızımız da artabilir.
+Özgüven biraz daha bağımsız bir faktör olsa da, bu model özgüveni de artırıyor.
+
+Başak:
+Benim için öğrenme hızı arttı çünkü 9. sınıfta birebir dersler alıyordum.
+Birebir olduğu için hocayla doğrudan iletişim kurabiliyor, yanlışlarımı anında düzeltebiliyordum.
+Özgüvenim de arttı çünkü mikrofonum sürekli açıktı ve rahatça konuşabiliyordum.
+
+Moderatör(Öykü):
+Peki, grup dersinde de aynı etkiyi hisseder miydin?
+
+Başak:
+Bence bu biraz kişiye bağlı ama benim için aynı şekilde olurdu.
+
+Yağmur:
+Özgüvenim arttı.
+
+Moderatör(Öykü):
+Nasıl arttı?
+
+Yağmur:
+Hocanın samimi yaklaşımı sayesinde.
+
+Moderatör(Öykü):
+Güzel, teşekkür ederim. O zaman yedinci soruya geçiyoruz.
+
+
+
+
+ #Q7#
+Bu sistemin en büyük avantajı ve dezavantajı sizce nedir?
+Üniversite öğrencilerinin size eğitim verdiğini düşünerek en büyük avantajı ve dezavantajı neler olurdu? 
+
+
+Ender:
+Avantaj: Öğretmen ve öğrencinin yaş farkının az olması çok büyük bir avantaj.
+Dezavantaj: Grup derslerinde ders saatlerinin değiştirilebilir olması bir dezavantaj.
+Ayrıca, internet üzerinden olduğu için bağlantı sorunları yaşanabiliyor.
+
+Başak:
+Avantaj: Hocalara hızlı bir şekilde ulaşabilmek.
+Eğer bir sorum olursa anında cevap alabiliyorum.
+Ayrıca, yaş farkının az olması daha rahat bir iletişim sağlıyor.
+Dezavantaj: Süre kısıtlaması.
+Bir ders 40 dakika ama ders süresinin verimli kullanılamaması büyük bir problem.
+Öğrencilerin isimlerinin çağrılması ve teknik aksaklıklar süreyi kısaltıyor.
+
+Rüveyda:
+Avantaj: Sistem daha bireysel bir yaklaşım sunuyor.
+Öğrenciler daha iyi tanındığı için, kişiye özel rehberlik sağlanabiliyor.
+Ayrıca, daha samimi bir ortam oluşması avantajlı bir durum.
+Dezavantaj: Online olması motivasyonu düşürebiliyor.
+İnsanları yüz yüze görmediğimiz için bağlılık hissi azalabiliyor.
+
+Yağmur:
+Avantaj: Hocaların samimi yaklaşımı sayesinde öğrencilerin netlerinde artış olabilir.
+Dezavantaj: Eğer öğrencinin kamerası açık değilse, ders sırasında dikkati dağılabilir.
+Öğrenciler arka planda başka şeylerle ilgilenebilir.
+
+Moderatör(Öykü):
+Bu dezavantajlar için bir çözüm öneriniz var mı?
+Özellikle teknik sorunlar, zaman yönetimi ve yüz yüze eğitimin motivasyon etkisini dengelemek için?
+
+(Sessizlik)
+
+Moderatör(Öykü):
+Sanırım yok. O zaman sekizinci ve son soruya geçiyorum
+
+
+
+ #Q8#
+Eğer bu model gelecekte yaygınlaşırsa, eğitim sistemini nasıl dönüştürür?
+Türkiye’de ve dünyada binlerce öğrenci bu sistemi kullanmaya başlarsa, geleneksel eğitim nasıl değişir?
+
+Ender:
+Bence bu sistem yaygınlaşırsa dershanelere olan talep azalır.
+Eğer küreselleşirse, öğrencilerin yurt dışıyla bağlantıları artabilir.
+Ama olumsuz bir yönü de var. Geleneksel eğitim bazı açılardan daha iyi.
+Çünkü yüz yüze eğitimde öğretmen öğrencinin gerçekten anlayıp anlamadığını gözlemleyebilir.
+Ayrıca, öğrenciler sınıfta fiziksel olarak bulunduklarında derslere katılım daha zorunlu hale geliyor.
+Çevrim içi derslerde bu zorunluluk azalıyor, öğrencilerin bahanesi olabiliyor.
+Bunu korona döneminde gördük, pek çok öğrenci canlı derslere katılmadı.
+
+Moderatör(Öykü):
+Ama burada bir fark var. Bu sistemde eğitim ücretli veya gönüllü olarak alınacak.
+Bir hizmet satın alındığında yaklaşım değişebilir.
+Ayrıca, eğitimi almak isteyen öğrenciler gönüllü öğretmenlerden destek alabilir.
+Sence bu fark yaratır mı?
+
+Ender:
+Belki burada ailelerin rolü de önemli.
+Bazı öğrenciler istemese de aileler eğitimi aldırmak isteyebilir.
+Bu da öğrencide isteksizlik yaratabilir.
+
+Rüveyda:
+Bence bu modelin getirdiği en büyük değişiklik zorunlu eğitimin etkisini azaltması olur.
+Şu an eğitim 12 yıl boyunca zorunlu ama bu sistemle daha isteğe bağlı hale gelebilir.
+Ve bir şeyi isteyerek yaptığımızda daha olumlu sonuçlar elde edebiliyoruz.
+Ancak, bu sistemde de motivasyon kaybı veya bahane üretme riski olabilir.
+
+Moderatör(Öykü):
+Bu gerçekten önemli bir konu.
+Ancak uzaktan eğitimin eksileri olduğu kadar bazı artıları da var.
+Örneğin, farklı ülkelerden veya şehirlerden öğrenciler bir araya gelebilir.
+Belki platform içinde yüz yüze etkinlikler düzenlenebilir ve öğrenciler zaman zaman bir araya gelebilir.
+Ayrıca, çevrim içi eğitime karşı önyargılarımız olabilir.
+Covid döneminde kötü deneyimler yaşadık ve bu, uzaktan eğitime karşı olumsuz düşünmemize sebep oluyor olabilir.
+
+Yağmur:
+Bence bu sistemin gelecekte yaygınlaşması daha iyi olur.
+Çünkü farklı şehirlerden ve ülkelerden insanlarla tanışabiliriz.
+Böylece daha büyük bir etkileşim alanı oluşur.
+
+Moderatör(Öykü):
+Evet, bu sistemin hem artıları hem eksileri var ama geliştirilebilir.
+Teşekkür ederim, katılımınız için.
+
+
+

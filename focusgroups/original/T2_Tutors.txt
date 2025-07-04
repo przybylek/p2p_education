@@ -1,0 +1,173 @@
+ 
+(General Description)
+Araştırma projesi, peer-to-peer (P2P) yani akran destekli eğitim modeli üzerine odaklanmaktadır. Bu modelde merkezi bir otoriteye gerek olmadan bireyler arasında doğrudan bilgi aktarımı ve eğitim sağlanması hedeflenmektedir. Platform, üniversite öğrencilerinin (lisans, yüksek lisans veya doktora) sahip oldukları bilgi ve becerileri, 10-18 yaş arasındaki öğrencilere aktardıkları bir yapı sunmaktadır. Bu model hem öğretmen rolündeki üniversite öğrencilerine deneyim ve gelir kazandırmayı hem de öğrencilere kaliteli, ilham verici ve erişilebilir eğitim sunmayı amaçlamaktadır. Platform, hem gönüllü hem de ücretli eğitim seçeneklerini içermektedir.
+
+
+
+#Q1#
+Dijital bir platformda eğitim desteği sağlarken en büyük zorluklar neler olabilir?
+Elifnaz:
+Biz online eğitim aldık zaten pandemide. Açıkçası en büyük sıkıntım, ev ortamında dikkatimi toplamak oldu. Derse oturarak başlayıp yatarak devam ediyordum. Bu da motivasyon eksikliğine sebep oluyordu. Ama zaman kaybetmemek gibi avantajları da vardı. Online eğitimde verim almak biraz da iradeye bağlı.
+
+Şebnem:
+Ben hem eğitmen hem öğrenci olarak bulundum online eğitimde. Öğrencinin dikkatini toplamak zor, çünkü derste olmadığını hissediyorsun. Bir de uygulamalı dersler için araçlar çok önemli. Yazı yazacak bir dijital araca sahip değilsen çok zorlanıyorsun. Yüz yüze derste öğrencinin ilgisinin dağıldığını anlıyorsun ama online’da bu zor.
+
+Nefise:
+Ben ders verirken yazı yazma konusu benim için çok zorluydu. Matematik anlatıyorum ve Touchpad üzerinden anlatmak zor oluyor. Teknik altyapı çok önemli. Öğrencilere ulaşım, internet kalitesi de sorun yaratabiliyor. Duygusal olarak da odaklanmak zor, ama öğrenciyi derse çekmek için arada espriler yapıyorum, konuşuyorum. Yani sadece öğretmen değil, bir abla gibi oluyorum.
+
+Uğur:
+Online’da anlık tepkileri almak zor. Yüz yüze iletişim çok daha verimli. Ayrıca dijital eşitsizlik de bir sorun. Herkesin aynı ekipmanlara erişimi yok. Bu büyük bir dezavantaj.
+
+Ali:
+Katılıyorum, teknik sorunlar ve kaynak eksikliği çözülebilir belki ama sürdürülebilir etkileşim çok zor. Öğrencilerin motivasyonunu uzun vadede yüksek tutmak çok büyük bir zorluk. Bunu daha önceki projelerde de yaşadık.
+
+
+
+
+#Q2#
+Akran destekli eğitim modelinde öğrencilerin başarılı olmaları için ne tür destekler etkili olabilir?
+
+Şebnem:
+Bence mentor desteği çok önemli. Lisedeyken bana ilham olan bir üniversiteliyle konuşmak, beni hedefime daha çok bağlardı. Rol model olarak görmek isterdim. Onun neler yaşadığını bilmek bana yol gösterici olurdu.
+
+Nefise:
+Ben de mentorluk etkili olur diyorum ama birebir destek daha kıymetli bence. Çünkü grup ortamında herkes açık olmayabilir. Öğrenci bir şey anlamadığında çekinip sormayabilir ama birebirde daha rahat olur.
+
+Elifnaz:
+Ben de birebir destek diyorum. Ama mentor ve öğrenci eşleşmeden önce küçük bir test yapılmalı bence. Kişilik uyumu çok önemli. Uyumlu olmayan ikililerde etki azalabilir.
+
+Ali:
+Birebir destek daha sürdürülebilir olur. Öğrenciyle sürekli iletişimde olmak, ona bireysel zaman ayırmak çok daha etkili olur. Hem motivasyon hem verimlilik açısından.
+
+Uğur:
+Ben grup çalışmalarını tercih ederim. Çünkü sosyal ortamda öğrenme bana daha etkili geliyor. Birebirde daha pasif kalabiliyorum ama grup içinde daha rahat ifade edebiliyorum kendimi. Sosyal etkileşim de öğrenmeyi destekliyor.
+
+
+
+#Q3#
+10-18 yaş arası öğrencilere eğitim verirken karşılaşabileceğiniz en büyük zorluk ne olurdu?
+
+Nefise:
+Motivasyon. Özellikle sınav senesinde olan öğrenciler umutsuz olabiliyor. Onların umutlarını, motivasyonlarını yüksek tutmak çok zor. Dikkat dağınıklığı da çok fazla. Öğretmen olarak öğrencinin ilgisini çekmek çok önemli.
+
+Şebnem:
+Ben de aynı şeyi düşünüyorum. Öğrenciler gün içinde çok fazla rol içinde oluyor. Okulda, evde, arkadaş çevresinde. Günün sonunda çok yorgun oluyorlar ve derse motivasyonları düşük oluyor. Öğretmenin burada ekstra efor göstermesi gerekiyor.
+
+Ali:
+Zaman yönetimi bence en büyük sorun olur. Öğrencilerin ve öğretmenlerin zamanları sürekli değişiyor. Bu da sürdürülebilirliği zorluyor. Motivasyon yüksek olursa zaman yönetimi kolaylaşabilir.
+
+Uğur:
+İletişim kurmak bence en zor olanı. 14-18 yaş grubu ergenlik döneminde oluyor. Bu yaşlarda kendilerini anlatmakta, anlaşılmakta zorlanıyorlar. Öğretmen-öğrenci iletişimi güçlü olmazsa ders verimli geçmez.
+
+Elifnaz:
+Ben de zaman yönetimi ve dikkat sorunlarını ön planda görüyorum. Çocuklar çok fazla uyarana maruz kalıyor. Konsantre olmak zor. Ama dediğiniz gibi, öğretmen öğrencinin ilgi alanına göre dersi kişiselleştirebilirse dikkatini daha kolay çekebilir.
+
+
+
+#Q4#
+Peer-to-peer eğitim platformuna katılmanızda sizi en çok motive eden faktör nedir?
+
+Elif Naz: Bu işi oluştururken bence önce bir topluluk yaratmak çok önemli. Orada var olabilmek... Çünkü dönem dönem herkes değişecek, gidecek, ama oradaki isimler değişse de topluluk hep kalacak. Onun bir parçası olmak çok önemli. Misyonu ve vizyonu birlikte büyütmek... Beni en çok motive edecek şey bu olurdu.
+
+Öykü: Peki ikinci sırada ne olurdu?
+
+Elif Naz: Öğretmek. Öğrencinin gelişimini görmek, katkı sağladığımı bilmek çok motive edici.
+
+Nefise: Benim için ilk sırada öğrencilerin hayatlarına dokunmak gelir. Küçücük bir şey bile öğretmiş olsam ve bu onların hayatında yer etse, bu beni çok duygulandırır ve mutlu eder. İkinci olarak da topluluk içinde yer almak diyebilirim. Farklı insanlarla tanışmak, o network’ü edinmek çok değerli.
+
+Ali: Öğretme deneyimi benim için çok önemli olurdu. Sosyal etki de aynı şekilde. Bunun yanında gelir kazanmak da önemli. Sonuçta öğrenciyiz ve bildiğimiz bir alanda ders vererek gelir elde edebilmek güzel olur.
+
+Şebnem: Ben ilk sıraya öğretme deneyimini koyardım. Çünkü birine bir şey aktarırken aynı zamanda kendi anlatım becerilerimi de keşfetmiş olurum. İkinci sıraya gelir kazanmayı koyarım. Öğrenciyken bilgimi aktararak para kazanabilmek çok güzel bir imkân.
+
+Uğur: Öncelikle sosyal etki derdim. Karşıya faydalı olmak benim için en büyük motivasyon olurdu. Gelir kazanmak da etkili olurdu. Sevdiğim bir şeyi yaparak aynı zamanda para kazanmak harika olurdu.
+
+
+
+#Q5#
+Gönüllü eğitmenlik yapmaya istekli olur muydunuz?
+
+Nefise: Kesinlikle gönüllü olmak isterdim. Hypatia deneyiminde de bunu yaşadım. İnsanların yaşadığı zorluklara karşı elimden gelen bir katkıyı sunmak bana çok şey öğretti. O anda yapabileceğim en anlamlı şey bu olabilir. O kişilerin hayatlarına bir nebze de olsa dokunmak çok özel bir his.
+
+Ali: Evet, gönüllü olmak isterdim. Gerekli bilgi ve beceriye sahipsem, bunu gerçekten ihtiyacı olan birine aktarabilmek bana kendimi çok iyi hissettirirdi.
+
+Şebnem: Şu an gönüllü eğitmenim ve gönüllülüğün verdiği duygusal tatmin çok başka. Aynı dersi ücretli bir kitleye verebilirdim ama bunu gönüllü olarak yapmanın anlamı farklı. Para başka bir şekilde kazanılabilir ama burada insanlara dokunuyorsun. Bambaşka bir şey.
+
+Elif Naz: Biz insanlar iyilikle doğuyoruz. Yardım etmek bizi çok mutlu ediyor. Bir çocuğa ulaşabilmek, ona bir şey öğretebilmek müthiş bir his. Gönüllü olarak öğretmenlik yapmayı isterdim.
+
+Uğur: İlk aşamada evet derim. Ama bir şartım var: Konfor alanımdan çok uzaklaşmamam gerekiyor. Eğer o dönemki hayat koşullarım bunu sürdürebilir kılarsa gönüllü olarak seve seve yaparım. Aksi takdirde, sorumluluğun hakkını verememekten endişe duyarım.
+
+
+
+#Q6#
+Platforma katılmanızı teşvik edecek en önemli etkenler neler olurdu?
+
+Ali: Gönüllü senaryoda katkı sağlamak, kişisel gelişim ve sosyal etki. Ücretli senaryoda ise gelir kazanmak, toplumsal fayda sağlamak, topluluğun bir parçası olmak, sertifika ve referans mektubu gibi desteklerin olması.
+
+Şebnem: Topluluk desteği benim için çok önemli olurdu. Oraya ait olmak hissi çok değerli. Sertifika ve referans mektubu da şu an yüksek lisans başvurusu yaptığım için çok kıymetli olurdu. Yanında böyle şeylerin olması büyük bir artı.
+
+Elif Naz: En çok motive eden şey yıl sonunda yüz yüze gelmek olabilir. Ekrandan gördüğüm öğrencilerle fiziksel olarak buluşmak güzel olurdu. İkinci olarak, network oluşturmak. Sertifikadan ziyade tanıdığım insanlar, sosyal çevremi geliştirmek benim için daha önemli.
+
+Nefise: Hypatia’daki yıl sonu buluşmasını çok etkileyiciydi. Öğrencilerin geri dönüşlerini almak büyük mutluluk. İkinci olarak çevre; bu tür topluluklarda tanıştığın insanlar hayatında kalıcı oluyor.
+
+Uğur: Sertifika ve referans mektubu benim için çok anlamlı değil. Ama karşı tarafın fayda sağlaması ve benim bu süreçten tatmin olmam en büyük teşvik olurdu.
+
+
+
+#Q7#
+Gönüllü eğitmen olarak haftada ne kadar zaman ayırabilirdiniz?
+
+Şebnem: Şu an iki saat ayırabiliyorum. Sınıf olarak ders yaptığımız için uygun zaman bulmak zor oluyor. Akşamları öğrenciler çok yorgun oluyor, hafta sonları ise kurslar oluyor. Bu yüzden maksimum iki saat sürdürebilirim.
+
+Nefise: 3–5 saat arası diyebilirim. Ama hafta içi akşamları öğrenciler yorgun oluyor, hafta sonu da tam verimli geçmiyor. Düzenli yapmak isterim ama hayatın geçiş dönemindeyim. Bu yüzden her zaman düzenli yapabileceğimi garanti edemem.
+
+Ali: Bu ihtiyaçlara göre değişebilir. Örneğin deprem gibi özel durumlarda 3–4 saate kadar çıkarabilirim. Ama genel olarak sürdürülebilir olması için haftada 1–1.5 saat idealdir.
+
+Elif Naz: Haftada 1 ders kimseyi zorlamaz. 2 ders olunca uzun vadede zorlayabilir. Bu yüzden belli dönemlerde 2, sonra 1 derse düşürmek daha sürdürülebilir olurdu.
+
+Uğur: Bu dönemde kendime bile yeterli hissedemediğim zamanlar oluyor. Bu nedenle haftada 3–5 saat benim için gerçekçi olmaz. 1–2 saat diyebilirim ama onun bile sürdürülebilir olup olmayacağından emin değilim.
+
+
+#Q8#
+Eğitmen olarak performansınız hakkında nasıl geri bildirim almak isterdiniz?
+
+Şebnem: Anonim geri bildirim almak isterdim. Çünkü öğrenciler yüz yüze olunca fikirlerini açıkça söyleyemeyebilirler. Anonim olması daha şeffaf ve dürüst geri bildirim alınmasını sağlar.
+
+Ali: Hem anonim anketler hem de öğrencilerden birebir açık geri bildirim almak isterdim. Kendimi geliştirmek için geri bildirim çok önemli.
+
+Uğur: Anonim geri bildirim tercihim olur. Çünkü maksimum şeffaflık sağlanabilir. Ayrıca diğer eğitmenlerden öneriler de almak isterim. Onların farklı gözlemleri bana katkı sağlar.
+
+Nefise: Anonim geri bildirimi tercih ederim. Kimin söylediğinden çok ne söylendiği önemli. Öğrencilerin rahatça düşüncelerini paylaşabilmesi değerli.
+
+Elif Naz: Geri bildirim çok önemli. Zoom dersleri kaydedilip, rastgele seçilen kesitler üzerine eğitmenlerle birlikte değerlendirme yapılabilir. Öğrencilerden anonim geri bildirim de almak isterim. Kimlikleri bilmek istemem, tarafsız kalabilmek önemli.
+
+
+
+#BONUS#
+Peer-to-peer platformu şu anda kurulmuş olsa, yani her şey hazır ve erişilebilir hale gelse, sizce bu platformun en büyük avantajı ve dezavantajı ne olurdu?
+
+Nefise:
+Ben hem avantaj hem dezavantaj olarak aynı şeyi söyleyeceğim: dijital olması.
+Yani bu bir avantaj çünkü erişilebilirlik sağlıyor. Ama aynı zamanda bir dezavantaj çünkü dijital araçlara erişimi olmayan öğrenciler olabilir. Uygulamalı eğitimde de yüz yüze kadar etkili olmayabilir. O yüzden iki tarafı da var gibi düşünüyorum.
+
+Elif Naz:
+Bence dezavantajı, şu an benzer birçok platformun olması. Ve bu platformların bazıları büyük ödenekler alarak reklam yapıyorlar. Onlar arama sonuçlarında daha üstte çıkabilir, bizimki ise çok daha aşağıda kalabilir.
+Ama avantajı şu: sizin gibi güzel insanların bu platformu kuruyor olması. Gerçekten öğrenci deneyimiyle, içten gelen bir yaklaşımla yapılıyor olması çok kıymetli. Bu bence en önemli farkı yaratır.
+
+Öykü:
+Bu arada çok kısa bir not düşeyim: Benzer platformlar var ama bu kadar net bir şekilde üniversite öğrencilerinin 10–18 yaş grubuna birebir ders verdiği, yaş aralığına ve eğitmen-öğrenci eşleşmesine bu kadar önem veren bir sistem şu an yok.
+Yani "birebir peer-to-peer eşleşme sistemiyle gençlere eğitim" odaklı bu şekilde bir platform şu an piyasada mevcut değil.
+
+Ali:
+En büyük avantajı kesinlikle erişilebilirlik. Ulaşamayan öğrenciler için çok büyük bir imkan.
+Dezavantaj olarak... Düşünüyorum ama çok bariz bir şey gelmiyor aklıma. Belki yeterince destek bulamazsa, bu bir dezavantaj olabilir.
+
+Şebnem:
+Avantaj olarak, coğrafi olarak asla karşılaşamayacağım biriyle platform sayesinde eşleşip tanışabiliyor olmam diyebilirim. Aynı şehirde değiliz belki ama yine de etkili bir iletişim ve ders ortamı kurulabilir. Bu çok kıymetli.
+Dezavantaj olarak da motivasyonun sürdürülebilirliği olabilir. Yani herkes bir şeye başlarken motive olur ama süreç uzadıkça motivasyon azalabilir. Bu dinamiği sürekli canlı tutmak zor olabilir.
+
+Uğur:
+Ben de Nefise'ye katılıyorum. Dijital olması hem avantaj hem de dezavantaj.
+Avantajı, mesafeleri ortadan kaldırıyor olması. İstediğimiz her yerden bağlanabiliriz.
+Ama dezavantajı, ekran karşısında olmak. Motivasyon kaybı yaşayabiliriz. Yani bu işin sürdürülebilirliği biraz zor olabilir.
+
+
