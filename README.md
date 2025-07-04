@@ -53,3 +53,6 @@ CSV exports of all questionnaire responses:
 ## Acknowledgements
 
 The participation of Öykü Kaplan in the ISD'25 conference was supported by the Department of Computer Architecture at the Gdańsk University of Technology.
+
+- [Focus Group Participants](focus_group_participants.md)
+
