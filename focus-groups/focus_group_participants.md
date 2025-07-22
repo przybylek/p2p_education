@@ -1,6 +1,6 @@
-# Peer Tutors – Focus Group Contributors
+# Focus Group Contributors
 
-The following peer tutors participated in the focus group sessions and shared insights that contributed to the research.
+We extend our heartfelt appreciation to the following individuals who participated in our focus group sessions and consented to be acknowledged. Their generous sharing of experiences and insights was fundamental to this research.
 
 ## Peer Tutors
 
