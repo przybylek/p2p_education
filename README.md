@@ -51,7 +51,7 @@ CSV exports of all questionnaire responses:
 
 ## Declaration on the Use of Large Language Models
 
-For methodological transparency, we note that LLMs were used in a supplementary role during thematic analysis. After manually developing initial codes and identifying themes, we prompted LLMs to suggest improved names and help draft concise descriptions for these concepts. All final code names and descriptions were refined and approved by the research team.
+For transparency, we note that LLMs were used in a supplementary role during thematic analysis. After manually developing initial codes and identifying themes, we prompted LLMs to suggest improved names and help draft concise descriptions for these concepts. All final code names and descriptions were refined and approved by the research team.
 
 Additionally, we utilized LLMs to improve the language and readability of the paper. The authors subsequently reviewed and edited all AI-generated suggestions and take full responsibility for the final content of the published paper.
 

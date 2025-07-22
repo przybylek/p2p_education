@@ -16,15 +16,15 @@ We extend our heartfelt appreciation to the following individuals who participat
 
 ## Learners (Tutees)
 
-**Başak**
-**Yağmur**
-**Ender**
-**Rüveyda**
-**Elif Hicran**
-**Umut**
-**Melek**
-**Azra**
-**Elif Dal**
+- **Başak**
+- **Yağmur**
+- **Ender**
+- **Rüveyda**
+- **Elif Hicran**
+- **Umut**
+- **Melek**
+- **Azra**
+- **Elif Dal**
 
 ## Project Support
 
