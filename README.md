@@ -17,7 +17,7 @@ All relevant participant-observer fieldnotes are consolidated into a single PDF:
 
 ---
 
-## Focus groups
+## Focus Groups
 
 ### Key Questions for Learners:
 
@@ -32,7 +32,7 @@ All relevant participant-observer fieldnotes are consolidated into a single PDF:
 
 ---
 
-### Key questions for tutors:
+### Key Questions for Tutors:
 
 1. What are the primary challenges of tutoring online?
 2. What are the most effective strategies for supporting learners in an online, P2P model?
