@@ -19,6 +19,32 @@ All relevant participant-observer fieldnotes are consolidated into a single PDF:
 
 ## Focus groups
 
+### Key Questions for Learners:
+
+1. How is the peer-to-peer education model different from traditional teaching methods in your experience? In which areas do you find it more effective?
+2. What are the biggest challenges you have faced while receiving peer support through a digital platform? (e.g., communication barriers, lack of motivation, technical issues, etc.)
+3. How would you prefer to interact with your tutors? (e.g., in a more formal, guidance-focused, or friendly way?)
+4. What features should a dedicated P2P learning platform have to be most effective?
+5. How would you like your progress to be tracked on such a platform?
+6. How has the digital P2P education affected your learning speed, quality, and self-confidence?
+7. What do you think are the biggest advantages and disadvantages of this P2P system?
+8. If the P2P education model became more common in schools or communities, how do you think it would transform the education system?
+
+---
+
+### Key questions for tutors:
+
+1. What are the primary challenges of tutoring online?
+2. What are the most effective strategies for supporting learners in an online, P2P model?
+3. What are the biggest challenges you have faced when offering academic support to younger learners?
+4. What motivates you to participate in this program (e.g., certificates, recommendations, skill development opportunities)?
+5. Would you be willing to volunteer for similar initiatives in the future?
+6. What would be the most important factor in encouraging you to participate?
+7. How much time per week could you realistically dedicate to volunteering? 
+8. How would you prefer to receive feedback on your tutoring performance?
+
+---
+
 ### Original Turkish Transcripts
 
 - [Tutors T1](./focus-groups/original/T1_Tutors.txt)
