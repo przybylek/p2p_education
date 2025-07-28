@@ -19,7 +19,7 @@ All relevant participant-observer fieldnotes are consolidated into a single PDF:
 
 ## Focus Groups
 
-### Key Questions for Learners:
+### Key Questions for Learners (Tutees):
 
 1. How is the peer-to-peer education model different from traditional teaching methods in your experience? In which areas do you find it more effective?
 2. What are the biggest challenges you have faced while receiving peer support through a digital platform? (e.g., communication barriers, lack of motivation, technical issues, etc.)
