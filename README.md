@@ -2,8 +2,9 @@
 
 This repository contains supplementary materials for the ISD'25 paper:
 
-**From Post-Disaster Support to Educational Equity: Conceptualizing a Volunteer-Driven Online Peer-to-Peer Learning Ecosystem at Scale**  
-*Öykü Kaplan, Adam Przybylek and Michael Neumann*
+*Kaplan, Ö., Przybylek, A. and Neumann, M.*: **From Post-Disaster Support to Educational Equity: Conceptualizing a Volunteer-Driven Online Peer-to-Peer Learning Ecosystem at Scale.** In: 33rd International Conference on Information Systems Development (ISD'25), Belgrade, Serbia. [https://doi.org/10.62036/ISD.2025.103](https://doi.org/10.62036/ISD.2025.103)
+  
+
 
 You can browse, download, and inspect each data source directly.
 
