@@ -16,12 +16,6 @@ This category examines the inherent obstacles and limitations of delivering educ
 *   **Digital Accessibility**
     — The degree to which all students have equal access to the necessary digital tools and reliable internet connectivity.
 
-*   **Quality Control** ![new](https://img.shields.io/badge/new-aqua?style=plastic)
-    — Challenges and mechanisms related to maintaining high educational standards and preventing misuse as the platform scales to a larger, anonymous user base.
-
-*   **Platform Awareness & Outreach** ![new](https://img.shields.io/badge/new-aqua?style=plastic)
-    — The challenge of effectively marketing the platform to ensure it reaches the students who need it most and making potential volunteers aware of the opportunity.
-
 ## **Educational Facilitation & Support Mechanisms**
 **Description:**
 This category explores the instructional strategies and support mechanisms that enhance the learning experience, foster student engagement, and provide impactful feedback to tutors.
@@ -69,11 +63,21 @@ This category illuminates the experiences, perceptions, and motivational factors
 *   **Tutor Availability**
     — Challenges related to the limited time that tutors have to commit to tutoring due to personal, academic, or other scheduling constraints.
 
-*   **Hybrid Incentivization** ![new](https://img.shields.io/badge/new-aqua?style=plastic)
+## **Vision for the Global P2P Platform** ![new](https://img.shields.io/badge/new-aqua?style=plastic)
+**Description:**
+This category reflects the future-oriented aspirations of participants as they envision a scalable, sustainable, and internationally accessible ecosystem.
+
+*   **Quality Control** 
+    — Challenges and mechanisms related to maintaining high educational standards and preventing misuse as the platform scales to a larger, anonymous user base.
+
+*   **Platform Awareness & Outreach** 
+    — The challenge of effectively marketing the platform to ensure it reaches the students who need it most and making potential volunteers aware of the opportunity.
+    
+*   **Hybrid Incentivization** 
     — A flexible participation structure that combines voluntary engagement with optional income-generating opportunities, allowing tutors to choose their level of financial involvement based on personal circumstances.
 
-*   **Global Accessibility** ![new](https://img.shields.io/badge/new-aqua?style=plastic)
+*   **Global Accessibility** 
     — The aspiration and capability to extend the platform beyond local or national boundaries, enabling cross-cultural educational exchange and reaching learners facing diverse disadvantages worldwide.
 
-*   **Networking & Cultural Exchange** ![new](https://img.shields.io/badge/new-aqua?style=plastic)
+*   **Networking & Cultural Exchange** 
     — Opportunities for tutors to meet diverse people, build professional connections, and experience different cultures through teaching.
