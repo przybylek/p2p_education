@@ -1,6 +1,6 @@
-## Thematic Categories
+# Tutee Codebook: Thematic Categories
 
-### **Educational Benefits of Peer Learning**
+## **Educational Benefits of Peer Learning**
 **Description:**
 This category captures the direct academic, personal, and emotional advantages experienced by learners through peer-supported education.
 
@@ -34,7 +34,7 @@ This category captures the direct academic, personal, and emotional advantages e
 
 ---
 
-### **Challenges of Online Peer Learning**
+## **Challenges of Online Peer Learning**
 **Description:**
 Encompasses the various obstacles inherent to the online learning environment that can hinder effective communication and engagement.
 
@@ -52,7 +52,7 @@ Encompasses the various obstacles inherent to the online learning environment th
 
 ---
 
-### **Platform Feature Expectations**
+## **Platform Feature Expectations**
 **Description:**
 Outlines the specific functionalities and tools that learners desire to enhance their digital educational experience and track their progress effectively.
 
@@ -68,7 +68,7 @@ Outlines the specific functionalities and tools that learners desire to enhance 
 
 ---
 
-### **Vision for the Global P2P Platform**
+## **Vision for the Global P2P Platform**
 **Description:**
 Reflects participants' views on how the peer-to-peer education model might reshape traditional educational systems, extend opportunities on a global scale, and sustain itself through intergenerational participation.
 
