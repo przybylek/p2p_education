@@ -10,11 +10,10 @@ You can browse, download, and inspect each data source directly.
 
 ---
 
-## Fieldnotes
+## Codebooks
 
-All relevant participant-observer fieldnotes are consolidated into a single PDF:
-
-- [All Fieldnotes (PDF)](./fieldnotes/all_fieldnotes.pdf)  
+- [Tutor Codebook](./focus-groups/tutors_codebook.md)
+- [Tutee Codebook](./focus-groups/tutees_codebook.md)  
 
 ---
 
@@ -60,10 +59,13 @@ All relevant participant-observer fieldnotes are consolidated into a single PDF:
 - [Tutees L1](./focus-groups/english_translations/L1_Tutees_Annotated_InitialCodes.docx)
 - [Tutees L2](./focus-groups/english_translations/L2_Tutees_Annotated_InitialCodes.docx)
 
-### Codebooks
+---
 
-- [Tutor Codebook](./focus-groups/tutors_codebook.md)
-- [Tutee Codebook](./focus-groups/tutees_codebook.md)  
+## Fieldnotes
+
+All relevant participant-observer fieldnotes are consolidated into a single PDF:
+
+- [All Fieldnotes (PDF)](./fieldnotes/all_fieldnotes.pdf)  
 
 ---
 
@@ -73,6 +75,18 @@ CSV exports of all questionnaire responses:
 
 - [Tutor Responses (CSV)](./questionnaires/tutors_responses.csv)  
 - [Tutee Responses (CSV)](./questionnaires/tutees_responses.csv) 
+
+---
+
+## Visioning Workshops
+
+### Tutors
+- [English Transcripts Annotated with Initial Codes](./workshops/tutors_codebook.md)
+- [English Transcripts](./workshops/Tutor_Cover_Story)
+
+### Tutees
+- [English Transcripts Annotated with Initial Codes](./workshops/tutees_codebook.md)
+- [English Transcripts](./workshops/Tutee_Cover_Story)
 
 ---
 
