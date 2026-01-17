@@ -1,23 +1,23 @@
 # Earthquake Solidarity Project – Online Appendix
 
-This repository contains supplementary materials for the ISD'25 paper:
+This repository contains supplementary materials for the following publications:
 
-*Kaplan, Ö., Przybylek, A. and Neumann, M.*: **From Post-Disaster Support to Educational Equity: Conceptualizing a Volunteer-Driven Online Peer-to-Peer Learning Ecosystem at Scale.** In: 33rd International Conference on Information Systems Development (ISD'25), Belgrade, Serbia. [https://doi.org/10.62036/ISD.2025.103](https://doi.org/10.62036/ISD.2025.103)
-  
-
-
-You can browse, download, and inspect each data source directly.
+## 📄 Conference Paper (ISD'25)
+- *Kaplan, Ö., Przybylek, A. and Neumann, M.*: **From Post-Disaster Support to Educational Equity: Conceptualizing a Volunteer-Driven Online Peer-to-Peer Learning Ecosystem at Scale.** In: 33rd International Conference on Information Systems Development (ISD'25), Belgrade, Serbia. [https://doi.org/10.62036/ISD.2025.103](https://doi.org/10.62036/ISD.2025.103)
+## 📘 Extended Version (Post-Proceedings)  
+- *Kaplan, Ö., Przybylek, A. and Neumann, M.*: **From Earthquake Solidarity to Educational Equity: Conceptualizing a Sustainable, Volunteer-Driven P2P Learning Ecosystem at Scale.** In: Lecture Notes in Information Systems and Organisation, Springer, 2026.
 
 ---
 
-## Codebooks
+## 🗂️ Codebooks
 
 - [Tutor Codebook](./focus-groups/tutors_codebook.md)
 - [Tutee Codebook](./focus-groups/tutees_codebook.md)  
-
+> **Note:** Codes and categories derived specifically from the Cover Story visioning workshops
+> (incorporated in the Extended Version) are marked with ![new](https://img.shields.io/badge/new-aqua?style=plastic)
 ---
 
-## Focus Groups
+## 👥 Focus Groups
 
 ### Key Questions for Learners (Tutees):
 
@@ -61,7 +61,7 @@ You can browse, download, and inspect each data source directly.
 
 ---
 
-## Fieldnotes
+## 📝 Fieldnotes
 
 All relevant participant-observer fieldnotes are consolidated into a single PDF:
 
@@ -69,7 +69,7 @@ All relevant participant-observer fieldnotes are consolidated into a single PDF:
 
 ---
 
-## Questionnaires
+## 📋 Questionnaires
 
 CSV exports of all questionnaire responses:
 
@@ -78,7 +78,7 @@ CSV exports of all questionnaire responses:
 
 ---
 
-## Visioning Workshops
+## 🎨 Visioning Workshops
 
 ### Tutors
 - [English Transcripts Annotated with Initial Codes](./workshops/tutors_codebook.md)
@@ -90,15 +90,15 @@ CSV exports of all questionnaire responses:
 
 ---
 
-## Declaration on the Use of Large Language Models
+## 🤖 Declaration on the Use of Large Language Models
 
-For transparency, we note that LLMs were used in a supplementary role during thematic analysis. After manually developing initial codes and identifying themes, we prompted LLMs to suggest improved names and help draft concise descriptions for these concepts. All final code names and descriptions were refined and approved by the research team.
+For transparency, we note that LLMs were used in a supplementary role during thematic analysis. First, we used LLMs to brainstorm initial code names. However, these suggestions served merely as inspiration; many were too narrow or conflated multiple concepts. After we manually developed the initial codes and identified themes, we again used LLMs to propose improved labels and to help draft concise descriptions. All final code names and descriptions were refined and approved by the research team.
 
 Additionally, we utilized LLMs to improve the language and readability of the paper. The authors subsequently reviewed and edited all AI-generated suggestions and take full responsibility for the final content of the published paper.
 
 ---
 
-## Acknowledgements
+## 🙏 Acknowledgements
 
 Our sincere gratitude goes to all who participated in this research. We especially wish to acknowledge our focus group participants, a full list of whom is available with their consent [here](./focus-groups/focus_group_participants.md). We are equally thankful to the numerous tutors and tutees who contributed anonymously through our questionnaires, providing essential data for this work.
 
