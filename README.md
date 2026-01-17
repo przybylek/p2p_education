@@ -82,11 +82,11 @@ CSV exports of all questionnaire responses:
 
 ### Tutors
 - [English Transcripts Annotated with Initial Codes](./workshops/tutors_codebook.md)
-- [English Transcripts](./workshops/Tutor_Cover_Story)
+- [English Transcripts](./workshops/Tutor_Cover_Story.txt)
 
 ### Tutees
 - [English Transcripts Annotated with Initial Codes](./workshops/tutees_codebook.md)
-- [English Transcripts](./workshops/Tutee_Cover_Story)
+- [English Transcripts](./workshops/Tutee_Cover_Story.txt)
 
 ---
 

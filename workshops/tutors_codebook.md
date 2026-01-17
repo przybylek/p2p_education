@@ -2,74 +2,74 @@
 
 ![Cover Story](Tutor_Cover_Story.jpg)
 
-<÷yk¸> Now that we have our magazine cover, my first question is: what kind of P2P education platform does this cover describe? Can everyone sayóin one sentenceówhat kind of platform they see? Emre, letís start with you.
+**<√ñyk√º>** Now that we have our magazine cover, my first question is: what kind of P2P education platform does this cover describe? Can everyone say‚Äîin one sentence‚Äîwhat kind of platform they see? Emre, let‚Äôs start with you.
 
-<Emre> What stands out to me the most is international accessibility {Global Accessibility}.
+**<Emre>** What stands out to me the most is international accessibility <mark>{Global Accessibility}<mark>.
 
-<Nefise> Iíd describe it as a platform run by a young, dynamic team. That really catches my attention. And it also gives a strong sense of being an international platform {Global Accessibility}.
+**<Nefise>** I‚Äôd describe it as a platform run by a young, dynamic team. That really catches my attention. And it also gives a strong sense of being an international platform <mark>{Global Accessibility}<mark>.
 
-<B¸∫ra> What comes to my mind is this: a platform where students can choose to volunteer if they want, because some people genuinely want to do volunteer work {Volunteer Commitment}, but at the same time it also creates an environment where they can earn extra income if they wish. Itís a kind of blended space {Hybrid Incentivization}.
+**<B√º≈üra>** What comes to my mind is this: a platform where students can choose to volunteer if they want, because some people genuinely want to do volunteer work <mark>{Volunteer Commitment}<mark>, but at the same time it also creates an environment where they can earn extra income if they wish. It‚Äôs a kind of blended space <mark>{Hybrid Incentivization}<mark>.
 
-<Ilker> For me, it feels like a platform that values equality and creates more opportunities, wtih a non-discriminatory approach {Tutor Social Impact}. What comes to my mind directly is an idea that emerged from volunteering and looks like an education platform.
+**<ƒ∞lker>** For me, it feels like a platform that values equality and creates more opportunities, wtih a non-discriminatory approach <mark>{Tutor Social Impact}<mark>. What comes to my mind directly is an idea that emerged from volunteering and looks like an education platform.
 
-<™ebnem> For me, the benefitñbenefit relationship stands out. Because one student wants to receive education, and the other student, who is the teacher, wants to give education. So there is a mutual situation here, and thatís what catches my eye.
+**<≈ûebnem>** For me, the benefit‚Äìbenefit relationship stands out. Because one student wants to receive education, and the other student, who is the teacher, wants to give education. So there is a mutual situation here, and that‚Äôs what catches my eye.
 
-<÷yk¸> Great. Iím moving on to the second question. The main headline is ìFrom Peer to World.î Why was it written this way? Since it was ™ebnemís idea, Iíll start with her. What does this headline represent about the platform?
+**<√ñyk√º>** Great. I‚Äôm moving on to the second question. The main headline is ‚ÄúFrom Peer to World.‚Äù Why was it written this way? Since it was ≈ûebnem‚Äôs idea, I‚Äôll start with her. What does this headline represent about the platform?
 
-<™ebnem> When I chose ìFrom Peers to the World,î I thought about peer relationships. ìPeerî here means people in a similar age group. That closeness creates a learning-support opportunity without immediately producing an ìauthority figureî barrier. Itís easier to communicateóthere isnít that distance {Peer Communication Advantage}. In my mind, the word ìpeerî evokes comfort, accessibility, and openness in communication.
+**<≈ûebnem>** When I chose ‚ÄúFrom Peers to the World,‚Äù I thought about peer relationships. ‚ÄúPeer‚Äù here means people in a similar age group. That closeness creates a learning-support opportunity without immediately producing an ‚Äúauthority figure‚Äù barrier. It‚Äôs easier to communicate‚Äîthere isn‚Äôt that distance <mark>{Peer Communication Advantage}<mark>. In my mind, the word ‚Äúpeer‚Äù evokes comfort, accessibility, and openness in communication.
 
-<Elif> This directly suggests that, rather than learning from traditional educators, I can benefit from students like myself who can also contribute to my learning {Peer Communication Advantage}.
+**<Elif>** This directly suggests that, rather than learning from traditional educators, I can benefit from students like myself who can also contribute to my learning <mark>{Peer Communication Advantage}<mark>.
 
-<Ilker> I think it implies an easier education model and more natural communication. It feels healthier when people living in the "same world"ósharing similar perspectives and generational contextsótry to teach you something. Because we are in the same community or age group, understanding each other and exchanging ideas is easier {Peer Communication Advantage}.
+**<ƒ∞lker>** I think it implies an easier education model and more natural communication. It feels healthier when people living in the "same world"‚Äîsharing similar perspectives and generational contexts‚Äîtry to teach you something. Because we are in the same community or age group, understanding each other and exchanging ideas is easier <mark>{Peer Communication Advantage}<mark>.
 
-<B¸∫ra> What comes to my mind is that peers, close age groups, create a platform where young people can express themselves, gain self-confidence, develop, and recognize each other {Peer Communication Advantage}. Gaining education from someone close to your age helps them grow as well. Itís a space where interaction increases and where young people can say, ìYes, I can do something.î {Tutor Professional Development}
+**<B√º≈üra>** What comes to my mind is that peers, close age groups, create a platform where young people can express themselves, gain self-confidence, develop, and recognize each other <mark>{Peer Communication Advantage}<mark>. Gaining education from someone close to your age helps them grow as well. It‚Äôs a space where interaction increases and where young people can say, ‚ÄúYes, I can do something.‚Äù <mark>{Tutor Professional Development}<mark>
 
-<Nefise> What comes to my mind directly is accessibility. People from different cities and countries coming together is like getting to know a new culture {Global Accessibility; Networking & Cultural Exchange}.
+**<Nefise>** What comes to my mind directly is accessibility. People from different cities and countries coming together is like getting to know a new culture <mark>{Global Accessibility; Networking & Cultural Exchange}<mark>.
 
-<Emre> I think peers are more accessible in terms of communication. Being close in age creates a big advantage and increases approachability {Peer Communication Advantage}. Also, as Nefise mentioned, while we may currently reach disadvantaged people due to things like earthquakes, on a global scale this platform allows us to reach people facing very different disadvantages and see a broader picture of the world {Global Accessibility; Tutor Social Impact}. This headline represents great accessibility.
+**<Emre>** I think peers are more accessible in terms of communication. Being close in age creates a big advantage and increases approachability <mark>{Peer Communication Advantage}<mark>. Also, as Nefise mentioned, while we may currently reach disadvantaged people due to things like earthquakes, on a global scale this platform allows us to reach people facing very different disadvantages and see a broader picture of the world <mark>{Global Accessibility; Tutor Social Impact}<mark>. This headline represents great accessibility.
 
-<÷yk¸> Very nice. Now Iíll move on to the next question. What do you think is the most critical aspect of this platform? In one word or one sentenceówhat is indispensable, and why?
+**<√ñyk√º>** Very nice. Now I‚Äôll move on to the next question. What do you think is the most critical aspect of this platform? In one word or one sentence‚Äîwhat is indispensable, and why?
 
-<™ebnem> For me, the mutual-benefit aspect is crucial. The person providing education is also a student in many cases. And having some form of incomeóhowever smallómatters, because money is a basic part of sustaining life. Even a modest additional income can be a strong motivation factor for the tutor {Financial Incentives}. On the other side, the learner gets access to educationómore affordably than they normally could {Digital Accessibility}. So for me, the key thing is that mutual benefit.
+**<≈ûebnem>** For me, the mutual-benefit aspect is crucial. The person providing education is also a student in many cases. And having some form of income‚Äîhowever small‚Äîmatters, because money is a basic part of sustaining life. Even a modest additional income can be a strong motivation factor for the tutor <mark>{Financial Incentives}<mark>. On the other side, the learner gets access to education‚Äîmore affordably than they normally could <mark>{Digital Accessibility}<mark>. So for me, the key thing is that mutual benefit.
 
-<B¸∫ra> I would say two things: the hybrid model (volunteering plus income) {Hybrid Incentivization} and sincere, open communication. Without sincerity, these environments donít function well.
+**<B√º≈üra>** I would say two things: the hybrid model (volunteering plus income) <mark>{Hybrid Incentivization}<mark> and sincere, open communication. Without sincerity, these environments don‚Äôt function well.
 
-<Nefise> Transitioning from small community to global community {Global Accessibility}.
+**<Nefise>** Transitioning from small community to global community <mark>{Global Accessibility}<mark>.
 
-<Emre> I view it as an "Awareness Map." In daily life, we often don't see those in need of education, nor do we realize that we have skills we can transfer or monetize {Financial Incentives}. This platform creates that visibility and awareness {Platform Awareness & Outreach}.
+**<Emre>** I view it as an "Awareness Map." In daily life, we often don't see those in need of education, nor do we realize that we have skills we can transfer or monetize <mark>{Financial Incentives}<mark>. This platform creates that visibility and awareness <mark>{Platform Awareness & Outreach}<mark>.
 
-<Ilker> For me itís personalized educationóbeing able to choose the person who teaches you, or shape the education you receive based on your needs {Individualized Support}. That two-sided personalization makes it more valuable.
+**<ƒ∞lker>** For me it‚Äôs personalized education‚Äîbeing able to choose the person who teaches you, or shape the education you receive based on your needs <mark>{Individualized Support}<mark>. That two-sided personalization makes it more valuable.
 
-<Elif> For me, the most important point is accessibility. The main idea of the platform is reaching students who donít have access to education, so accessible and high-quality education is key {Digital Accessibility}.
+**<Elif>** For me, the most important point is accessibility. The main idea of the platform is reaching students who don‚Äôt have access to education, so accessible and high-quality education is key <mark>{Digital Accessibility}<mark>.
 
-<÷yk¸> Great. What does this cover promise for teachersóespecially university student tutors? What does this model offer them?
+**<√ñyk√º>** Great. What does this cover promise for teachers‚Äîespecially university student tutors? What does this model offer them?
 
-<B¸∫ra> Iíll say income again {Financial Incentives}. Also, I think it offers a space where they can express themselves and gain confidence {Tutor Professional Development}.
+**<B√º≈üra>** I‚Äôll say income again <mark>{Financial Incentives}<mark>. Also, I think it offers a space where they can express themselves and gain confidence <mark>{Tutor Professional Development}<mark>.
 
-<Nefise> Networkingómeeting people and building connections from very different places {Networking & Cultural Exchange}.
+**<Nefise>** Networking‚Äîmeeting people and building connections from very different places <mark>{Networking & Cultural Exchange}<mark>.
 
-<Emre> I think it also gives experience. For example, I might tutor math, but I could also discover that Iím able to teach other things too {Tutor Professional Development}. Since we can participate on a voluntary basisóand there's also potential for additional incomeóI think it makes a lot of sense {Hybrid Incentivization}.
+**<Emre>** I think it also gives experience. For example, I might tutor math, but I could also discover that I‚Äôm able to teach other things too <mark>{Tutor Professional Development}<mark>. Since we can participate on a voluntary basis‚Äîand there's also potential for additional income‚ÄîI think it makes a lot of sense <mark>{Hybrid Incentivization}<mark>.
 
-<÷yk¸> Does anyone want to add something, or should I move on? Okay, what differentiates this platform from others?
+**<√ñyk√º>** Does anyone want to add something, or should I move on? Okay, what differentiates this platform from others?
 
-<Nefise> The biggest difference is that something like this hasnít really existed in this form before. And beyond that, I see a live, young, dynamic energy in itólike on this poster. Thatís a distinguishing feature.
+**<Nefise>** The biggest difference is that something like this hasn‚Äôt really existed in this form before. And beyond that, I see a live, young, dynamic energy in it‚Äîlike on this poster. That‚Äôs a distinguishing feature.
 
-<Emre> I think combining informal education is very logical. Volunteering usually starts informally and later evolves into something more professional, including people who are skilled in their fields {Tutor Professional Development}.
+**<Emre>** I think combining informal education is very logical. Volunteering usually starts informally and later evolves into something more professional, including people who are skilled in their fields <mark>{Tutor Professional Development}<mark>.
 
-<B¸∫ra> I believe it embodies mutual benefit from both sides. Beyond money, as I mentioned, there's experience to be gained, expertise to develop, and a space for self-expression {Tutor Professional Development}. And flexibility.
+**<B√º≈üra>** I believe it embodies mutual benefit from both sides. Beyond money, as I mentioned, there's experience to be gained, expertise to develop, and a space for self-expression <mark>{Tutor Professional Development}<mark>. And flexibility.
 
-<™ebnem> Platforms like Cambly exist, but the critical difference here is receiving education from peers {Peer Communication Advantage}. And the free option also matters {Digital Accessibility}. Being able to see all options and having freedom of choice creates a valuable space.
+**<≈ûebnem>** Platforms like Cambly exist, but the critical difference here is receiving education from peers <mark>{Peer Communication Advantage}<mark>. And the free option also matters <mark>{Digital Accessibility}<mark>. Being able to see all options and having freedom of choice creates a valuable space.
 
-<÷yk¸> Final question. What will be the hardest part of bringing this platform to life? 
+**<√ñyk√º>** Final question. What will be the hardest part of bringing this platform to life? 
 
-<Emre> The most difficult part could be misuseópeople trying to exploit the system {Quality Control}. But with a simple reporting system, this can be handled. More generally, spreading the idea is important {Platform Awareness & Outreach}. People sometimes want to volunteer but donít know where to start. This platform creates a very accessible environment.
+**<Emre>** The most difficult part could be misuse‚Äîpeople trying to exploit the system <mark>{Quality Control}<mark>. But with a simple reporting system, this can be handled. More generally, spreading the idea is important <mark>{Platform Awareness & Outreach}<mark>. People sometimes want to volunteer but don‚Äôt know where to start. This platform creates a very accessible environment.
 
-<™ebnem> The hardest part is reaching students and making them aware of the platform {Platform Awareness & Outreach}. After they find out about it, running and sustaining things is manageable. In summary, it creates a safe space, builds community, offers quality and accessible education, and thatís very valuable {Community Building}.
+**<≈ûebnem>** The hardest part is reaching students and making them aware of the platform <mark>{Platform Awareness & Outreach}<mark>. After they find out about it, running and sustaining things is manageable. In summary, it creates a safe space, builds community, offers quality and accessible education, and that‚Äôs very valuable <mark>{Community Building}<mark>.
 
-<Ilker> The difficult part could be the ìpersonalizedî aspect itself {Individualized Support}. When something is personalized, peopleís expectations can rise a lot, and that can create problems. If I summarize it: itís a platform that supports someone who canít access somethingóeducationóand also creates benefit for the person providing that support {Digital Accessibility}.
+**<ƒ∞lker>** The difficult part could be the ‚Äúpersonalized‚Äù aspect itself <mark>{Individualized Support}<mark>. When something is personalized, people‚Äôs expectations can rise a lot, and that can create problems. If I summarize it: it‚Äôs a platform that supports someone who can‚Äôt access something‚Äîeducation‚Äîand also creates benefit for the person providing that support <mark>{Digital Accessibility}<mark>.
 
-<Elif> Awareness is the hardest part {Platform Awareness & Outreach}. Overall, I see a platform born from volunteering where both students and university educators benefit mutually.
+**<Elif>** Awareness is the hardest part <mark>{Platform Awareness & Outreach}<mark>. Overall, I see a platform born from volunteering where both students and university educators benefit mutually.
 
-<B¸∫ra> Quality control could be challengingóensuring that everyone provides quality education {Quality Control}. Over time, this will be shaped by preferences and feedback. From the cover, I see a project that started with the urgent need of earthquake survivors but evolved to break boundaries. It transformed into a platform where youth can express themselves and earn income {Tutor Professional Development; Financial Incentives}.
+**<B√º≈üra>** Quality control could be challenging‚Äîensuring that everyone provides quality education <mark>{Quality Control}<mark>. Over time, this will be shaped by preferences and feedback. From the cover, I see a project that started with the urgent need of earthquake survivors but evolved to break boundaries. It transformed into a platform where youth can express themselves and earn income <mark>{Tutor Professional Development; Financial Incentives}<mark>.
 
-<Nefise> Building and maintaining trust and sustaining motivation in the long term could be difficult {Community Building}. Overall, I would describe it as a platform where peers empower each other and small connections turn into big impacts {Tutor Social Impact}.
+**<Nefise>** Building and maintaining trust and sustaining motivation in the long term could be difficult <mark>{Community Building}<mark>. Overall, I would describe it as a platform where peers empower each other and small connections turn into big impacts <mark>{Tutor Social Impact}<mark>.
