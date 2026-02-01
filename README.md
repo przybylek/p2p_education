@@ -5,7 +5,7 @@ This repository contains supplementary materials for the following publications:
 ## 📄 Conference Paper (ISD'25)
 - *Kaplan, Ö., Przybylek, A. and Neumann, M.*: **From Post-Disaster Support to Educational Equity: Conceptualizing a Volunteer-Driven Online Peer-to-Peer Learning Ecosystem at Scale.** In: 33rd International Conference on Information Systems Development (ISD'25), Belgrade, Serbia. [https://doi.org/10.62036/ISD.2025.103](https://doi.org/10.62036/ISD.2025.103)
 ## 📘 Extended Version (Post-Proceedings)  
-- *Kaplan, Ö., Przybylek, A. and Neumann, M.*: **From Earthquake Solidarity to Educational Equity: Conceptualizing a Sustainable, Volunteer-Driven P2P Learning Ecosystem at Scale.** In: Lecture Notes in Information Systems and Organisation, Springer, 2026.
+- *Kaplan, Ö., Przybylek, A., Neumann, M. and Iivari, N.*: **From Earthquake Solidarity to Educational Equity: Conceptualizing a Sustainable, Volunteer-Driven P2P Learning Ecosystem at Scale.** In: Lecture Notes in Information Systems and Organisation, Springer, 2026.
 
 ---
 
